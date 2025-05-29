@@ -10,10 +10,10 @@ This project builds a machine learning model that plays Pokémon Showdown battle
 
 ## Project Structure
 
-- `data/` — Folder containing raw battle logs
-- `models/` — Trained model weights and saved tokenizers
-- `scripts/` — Python scripts for parsing, training, and inference
-- `notebook/` — Optional Jupyter notebooks for prototyping and EDA
+- data/ — Folder containing raw battle logs
+- models/ — Trained model weights and saved tokenizers
+- scripts/ — Python scripts for parsing, training, and inference
+- notebook/ — Optional Jupyter notebooks for prototyping and EDA
 
 ## Getting Started
 
