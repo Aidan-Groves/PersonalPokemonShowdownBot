@@ -5,7 +5,7 @@ This project builds a machine learning model that plays Pokémon Showdown battle
 - Parses battle logs from Pokémon Showdown format
 - Extracts turn-by-turn state and corresponding player actions
 - Trains a text-sequence model to predict moves based on historical context
-- Reaches over 70% accuracy on test data
+- Reaches over 70% accuracy
 - Designed for eventual deployment on a personal website or game simulation
 
 ## Project Structure
