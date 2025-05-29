@@ -1,0 +1,335 @@
+|j|☆coatoverwatch
+|j|☆Zylvra
+|t:|1748502780
+|gametype|doubles
+|player|p1|coatoverwatch|ghetsis-gen5bw|1051
+|player|p2|Zylvra|cynthia-gen4|1059
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles Ubers
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Amoonguss, M|
+|poke|p1|Kyogre|
+|poke|p1|Lugia|
+|poke|p1|Gholdengo|
+|poke|p1|Incineroar, F|
+|poke|p1|Raging Bolt|
+|poke|p2|Indeedee-F, F|
+|poke|p2|Deoxys-Attack|
+|poke|p2|Glimmora, F|
+|poke|p2|Lokix, M|
+|poke|p2|Galvantula, F|
+|poke|p2|Minior-Violet|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by coatoverwatch)
+|
+|t:|1748502788
+|start
+|switch|p1a: Amoonguss|Amoonguss, M, shiny|100/100
+|switch|p1b: Incineroar|Incineroar, F|100/100
+|switch|p2a: If ya know|Glimmora, F|100/100
+|switch|p2b: ya know|Galvantula, F|100/100
+|-ability|p2b: ya know|Unnerve
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: If ya know|atk|1
+|-unboost|p2b: ya know|atk|1
+|turn|1
+|
+|t:|1748502806
+|move|p1b: Incineroar|Fake Out|p2b: ya know
+|-damage|p2b: ya know|83/100
+|cant|p2b: ya know|flinch
+|move|p2a: If ya know|Stealth Rock|p1a: Amoonguss
+|-sidestart|p1: coatoverwatch|move: Stealth Rock
+|move|p1a: Amoonguss|Spore|p2a: If ya know
+|-status|p2a: If ya know|slp|[from] move: Spore
+|
+|upkeep
+|turn|2
+|
+|t:|1748502829
+|move|p1b: Incineroar|Helping Hand|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|Helping Hand|[of] p1b: Incineroar
+|move|p2b: ya know|Infestation|p1a: Amoonguss
+|-damage|p1a: Amoonguss|96/100
+|-activate|p1a: Amoonguss|move: Infestation|[of] p2b: ya know
+|cant|p2a: If ya know|slp
+|move|p1a: Amoonguss|Seed Bomb|p2a: If ya know
+|-damage|p2a: If ya know|65/100 slp
+|-activate|p2a: If ya know|ability: Toxic Debris
+|-sidestart|p1: coatoverwatch|move: Toxic Spikes
+|
+|-heal|p1a: Amoonguss|100/100|[from] item: Leftovers
+|-damage|p1a: Amoonguss|88/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|3
+|
+|t:|1748502846
+|move|p2b: ya know|Sticky Web|p1a: Amoonguss
+|-sidestart|p1: coatoverwatch|move: Sticky Web
+|-curestatus|p2a: If ya know|slp|[msg]
+|move|p2a: If ya know|Spikes|p1b: Incineroar
+|-sidestart|p1: coatoverwatch|Spikes
+|move|p1b: Incineroar|Parting Shot|p2b: ya know
+|-unboost|p2b: ya know|atk|1
+|-unboost|p2b: ya know|spa|1
+|
+|t:|1748502851
+|switch|p1b: Gholdengo|Gholdengo|100/100|[from] Parting Shot
+|-damage|p1b: Gholdengo|94/100|[from] Stealth Rock
+|-activate|p1b: Gholdengo|move: Sticky Web
+|-unboost|p1b: Gholdengo|spe|1
+|-damage|p1b: Gholdengo|82/100|[from] Spikes
+|move|p1a: Amoonguss|Toxic|p2b: ya know
+|-status|p2b: ya know|tox
+|
+|-heal|p1a: Amoonguss|94/100|[from] item: Leftovers
+|-damage|p2b: ya know|77/100 tox|[from] psn
+|-damage|p1a: Amoonguss|82/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|4
+|
+|t:|1748502874
+|move|p2b: ya know|Gastro Acid|p1b: Gholdengo
+|-immune|p1b: Gholdengo|[from] ability: Good as Gold
+|move|p2a: If ya know|Spikes|p1b: Gholdengo
+|-sidestart|p1: coatoverwatch|Spikes
+|move|p1b: Gholdengo|Make It Rain|p2a: If ya know|[spread] p2a,p2b
+|-supereffective|p2a: If ya know
+|-resisted|p2b: ya know
+|-damage|p2a: If ya know|0 fnt
+|-damage|p2b: ya know|33/100 tox
+|-unboost|p1b: Gholdengo|spa|1
+|faint|p2a: If ya know
+|-damage|p1b: Gholdengo|72/100|[from] item: Life Orb
+|move|p1a: Amoonguss|Spore||[still]
+|-fail|p1a: Amoonguss
+|
+|-heal|p1a: Amoonguss|88/100|[from] item: Leftovers
+|-damage|p2b: ya know|21/100 tox|[from] psn
+|-damage|p1a: Amoonguss|75/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|inactive|Zylvra has 120 seconds left.
+|
+|t:|1748502894
+|switch|p2a: Kamen Rider|Lokix, M|100/100
+|turn|5
+|
+|t:|1748502912
+|move|p2a: Kamen Rider|First Impression|p1b: Gholdengo
+|-resisted|p1b: Gholdengo
+|-damage|p1b: Gholdengo|50/100
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p2b: ya know|Infestation|p1a: Amoonguss
+|-damage|p1a: Amoonguss|72/100
+|move|p1b: Gholdengo|Nasty Plot|p1b: Gholdengo
+|-boost|p1b: Gholdengo|spa|2
+|
+|-heal|p1a: Amoonguss|78/100|[from] item: Leftovers
+|-damage|p2b: ya know|2/100 tox|[from] psn
+|-damage|p1a: Amoonguss|66/100|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1748502937
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p2b: ya know|Screech|p1a: Amoonguss
+|-unboost|p1a: Amoonguss|def|2
+|move|p2a: Kamen Rider|Swords Dance|p2a: Kamen Rider
+|-boost|p2a: Kamen Rider|atk|2
+|move|p1b: Gholdengo|Dazzling Gleam|p2a: Kamen Rider|[spread] p2a,p2b
+|-supereffective|p2a: Kamen Rider
+|-damage|p2a: Kamen Rider|0 fnt
+|-damage|p2b: ya know|0 fnt
+|faint|p2a: Kamen Rider
+|faint|p2b: ya know
+|-damage|p1b: Gholdengo|40/100|[from] item: Life Orb
+|
+|-heal|p1a: Amoonguss|72/100|[from] item: Leftovers
+|-end|p1a: Amoonguss|Infestation|[partiallytrapped]
+|upkeep
+|inactive|Zylvra has 120 seconds left.
+|
+|t:|1748502958
+|switch|p2b: Hi how ya|Deoxys-Attack|100/100
+|switch|p2a: Maid|Indeedee-F, F|100/100
+|-ability|p2b: Hi how ya|Pressure
+|-fieldstart|move: Psychic Terrain|[from] ability: Psychic Surge|[of] p2a: Maid
+|-enditem|p2a: Maid|Psychic Seed
+|-boost|p2a: Maid|spd|1|[from] item: Psychic Seed
+|turn|7
+|inactive|Zylvra has 120 seconds left.
+|
+|t:|1748502977
+|-terastallize|p2b: Hi how ya|Psychic
+|move|p2a: Maid|Helping Hand|p2b: Hi how ya
+|-singleturn|p2b: Hi how ya|Helping Hand|[of] p2a: Maid
+|move|p2b: Hi how ya|Expanding Force|p1b: Gholdengo|[spread] p1a,p1b
+|-supereffective|p1a: Amoonguss
+|-resisted|p1b: Gholdengo
+|-damage|p1a: Amoonguss|0 fnt
+|-damage|p1b: Gholdengo|0 fnt
+|faint|p1a: Amoonguss
+|faint|p1b: Gholdengo
+|-damage|p2b: Hi how ya|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1748502985
+|switch|p1b: Lugia|Lugia|100/100
+|switch|p1a: Kyogre|Kyogre|100/100
+|-damage|p1b: Lugia|76/100|[from] Stealth Rock
+|-damage|p1a: Kyogre|88/100|[from] Stealth Rock
+|-status|p1a: Kyogre|psn
+|-activate|p1a: Kyogre|move: Sticky Web
+|-unboost|p1a: Kyogre|spe|1
+|-damage|p1a: Kyogre|72/100 psn|[from] Spikes
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|8
+|
+|t:|1748503001
+|move|p2a: Maid|Helping Hand|p2b: Hi how ya
+|-singleturn|p2b: Hi how ya|Helping Hand|[of] p2a: Maid
+|move|p2b: Hi how ya|Expanding Force|p1a: Kyogre|[spread] p1a,p1b
+|-crit|p1a: Kyogre
+|-resisted|p1b: Lugia
+|-damage|p1a: Kyogre|0 fnt
+|-damage|p1b: Lugia|22/100
+|faint|p1a: Kyogre
+|-damage|p2b: Hi how ya|81/100|[from] item: Life Orb
+|move|p1b: Lugia|Tailwind|p1b: Lugia
+|-sidestart|p1: coatoverwatch|move: Tailwind
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1748503007
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-damage|p1a: Raging Bolt|88/100|[from] Stealth Rock
+|-status|p1a: Raging Bolt|psn
+|-activate|p1a: Raging Bolt|move: Sticky Web
+|-unboost|p1a: Raging Bolt|spe|1
+|-damage|p1a: Raging Bolt|72/100 psn|[from] Spikes
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|9
+|
+|t:|1748503025
+|move|p2a: Maid|Helping Hand|p2b: Hi how ya
+|-singleturn|p2b: Hi how ya|Helping Hand|[of] p2a: Maid
+|move|p1a: Raging Bolt|Thunderclap|p2b: Hi how ya
+|-activate|p2b: Hi how ya|move: Psychic Terrain
+|move|p1b: Lugia|Hurricane|p2b: Hi how ya
+|-crit|p2b: Hi how ya
+|-damage|p2b: Hi how ya|0 fnt
+|faint|p2b: Hi how ya
+|-damage|p1b: Lugia|13/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Raging Bolt|59/100 psn|[from] psn
+|upkeep
+|
+|t:|1748503036
+|switch|p2b: Therapy|Minior-Violet|100/100
+|-formechange|p2b: Therapy|Minior-Meteor||[from] ability: Shields Down
+|turn|10
+|c|☆coatoverwatch|i always forget how physic terrain works
+|inactive|Zylvra has 120 seconds left.
+|c|☆Zylvra|don't I forget about that too sometimes
+|c|☆Zylvra|*worry
+|
+|t:|1748503081
+|move|p2a: Maid|Follow Me|p2a: Maid
+|-singleturn|p2a: Maid|move: Follow Me
+|move|p1b: Lugia|Hurricane|p2a: Maid
+|-damage|p2a: Maid|56/100
+|-start|p2a: Maid|confusion
+|-damage|p1b: Lugia|3/100|[from] item: Life Orb
+|move|p1a: Raging Bolt|Electroweb|p2b: Therapy|[spread] p2a,p2b
+|-supereffective|p2b: Therapy
+|-damage|p2a: Maid|37/100
+|-damage|p2b: Therapy|15/100
+|-unboost|p2a: Maid|spe|1
+|-unboost|p2b: Therapy|spe|1
+|-enditem|p2b: Therapy|White Herb
+|-clearnegativeboost|p2b: Therapy|[silent]
+|move|p2b: Therapy|Shell Smash|p2b: Therapy
+|-unboost|p2b: Therapy|def|1
+|-unboost|p2b: Therapy|spd|1
+|-boost|p2b: Therapy|atk|2
+|-boost|p2b: Therapy|spa|2
+|-boost|p2b: Therapy|spe|2
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Raging Bolt|47/100 psn|[from] psn
+|-formechange|p2b: Therapy|Minior-Violet||[from] ability: Shields Down
+|upkeep
+|turn|11
+|inactive|Zylvra has 120 seconds left.
+|
+|t:|1748503109
+|-activate|p2a: Maid|confusion
+|-damage|p2a: Maid|33/100|[from] confusion
+|move|p2b: Therapy|Rock Slide|p1b: Lugia|[spread] p1a,p1b
+|-supereffective|p1b: Lugia
+|-damage|p1a: Raging Bolt|4/100 psn
+|-damage|p1b: Lugia|0 fnt
+|faint|p1b: Lugia
+|cant|p1a: Raging Bolt|flinch
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1a: Raging Bolt|0 fnt|[from] psn
+|faint|p1a: Raging Bolt
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|-sideend|p1: coatoverwatch|move: Tailwind
+|-fieldend|move: Psychic Terrain
+|upkeep
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748503119
+|switch|p1b: Incineroar|Incineroar, F|100/100
+|-damage|p1b: Incineroar|76/100|[from] Stealth Rock
+|-status|p1b: Incineroar|psn
+|-activate|p1b: Incineroar|move: Sticky Web
+|-unboost|p1b: Incineroar|spe|1
+|-damage|p1b: Incineroar|59/100 psn|[from] Spikes
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Maid|atk|1
+|-unboost|p2b: Therapy|atk|1
+|turn|12
+|c|☆coatoverwatch|bruh that flinch
+|inactive|Zylvra has 120 seconds left.
+|
+|t:|1748503142
+|move|p1b: Incineroar|Fake Out|p2b: Therapy
+|-resisted|p2b: Therapy
+|-damage|p2b: Therapy|0 fnt
+|faint|p2b: Therapy
+|-end|p2a: Maid|confusion
+|move|p2a: Maid|Follow Me|p2a: Maid
+|-singleturn|p2a: Maid|move: Follow Me
+|
+|-weather|none
+|-damage|p1b: Incineroar|47/100 psn|[from] psn
+|upkeep
+|turn|13
+|c|☆Zylvra|gg
+|inactive|Zylvra has 120 seconds left.
+|-message|Zylvra forfeited.
+|
+|win|coatoverwatch
+|raw|coatoverwatch's rating: 1095 &rarr; <strong>1118</strong><br />(+23 for winning)
+|raw|Zylvra's rating: 1059 &rarr; <strong>1042</strong><br />(-17 for losing)
+|l|☆Zylvra
+|player|p2|
+|c|☆coatoverwatch|i had no damaging moves

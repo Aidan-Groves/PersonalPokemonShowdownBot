@@ -1,0 +1,312 @@
+|j|☆catsleepr
+|j|☆coatoverwatch
+|t:|1748501861
+|gametype|doubles
+|player|p1|catsleepr|2|1060
+|player|p2|coatoverwatch|ghetsis-gen5bw|1000
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles Ubers
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Urshifu-*, M|
+|poke|p1|Archaludon, M|
+|poke|p1|Maushold-Four|
+|poke|p1|Tornadus, M|
+|poke|p1|Basculegion, M|
+|poke|p1|Politoed, M|
+|poke|p2|Amoonguss, M|
+|poke|p2|Kyogre|
+|poke|p2|Lugia|
+|poke|p2|Gholdengo|
+|poke|p2|Incineroar, F|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by coatoverwatch)
+|
+|t:|1748501876
+|start
+|switch|p1a: Maushold|Maushold-Four|100/100
+|switch|p1b: Archaludon|Archaludon, M|100/100
+|switch|p2a: Amoonguss|Amoonguss, M, shiny|100/100
+|switch|p2b: Incineroar|Incineroar, F|100/100
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Maushold|atk|1
+|-unboost|p1b: Archaludon|atk|1
+|turn|1
+|
+|t:|1748501893
+|move|p1b: Archaludon|Protect|p1b: Archaludon
+|-singleturn|p1b: Archaludon|Protect
+|move|p1a: Maushold|Population Bomb|p1b: Archaludon
+|-activate|p1b: Archaludon|move: Protect
+|move|p2b: Incineroar|Will-O-Wisp|p1b: Archaludon
+|-activate|p1b: Archaludon|move: Protect
+|move|p2a: Amoonguss|Spore|p1a: Maushold
+|-status|p1a: Maushold|slp|[from] move: Spore
+|
+|upkeep
+|turn|2
+|
+|t:|1748501914
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|100/100
+|move|p2a: Amoonguss|Rage Powder|p2a: Amoonguss
+|-singleturn|p2a: Amoonguss|move: Rage Powder
+|move|p1b: Archaludon|Iron Defense|p1b: Archaludon
+|-boost|p1b: Archaludon|def|2
+|move|p2b: Incineroar|Will-O-Wisp|p1b: Archaludon
+|-status|p1b: Archaludon|brn
+|
+|-damage|p1b: Archaludon|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1748501935
+|move|p1a: Urshifu|Surging Strikes|p2b: Incineroar
+|-supereffective|p2b: Incineroar
+|-crit|p2b: Incineroar
+|-damage|p2b: Incineroar|65/100
+|-supereffective|p2b: Incineroar
+|-crit|p2b: Incineroar
+|-damage|p2b: Incineroar|25/100
+|-supereffective|p2b: Incineroar
+|-crit|p2b: Incineroar
+|-damage|p2b: Incineroar|0 fnt
+|faint|p2b: Incineroar
+|-hitcount|p2: Incineroar|3
+|move|p1b: Archaludon|Body Press|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|88/100
+|move|p2a: Amoonguss|Toxic|p1a: Urshifu
+|-status|p1a: Urshifu|tox
+|
+|-heal|p2a: Amoonguss|94/100|[from] item: Leftovers
+|-damage|p1a: Urshifu|94/100 tox|[from] psn
+|-damage|p1b: Archaludon|88/100 brn|[from] brn
+|upkeep
+|
+|t:|1748501952
+|switch|p2b: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2b: Raging Bolt|Booster Energy
+|-activate|p2b: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2b: Raging Bolt|protosynthesisspa
+|turn|4
+|inactive|catsleepr has 120 seconds left.
+|
+|t:|1748501997
+|move|p2a: Amoonguss|Rage Powder|p2a: Amoonguss
+|-singleturn|p2a: Amoonguss|move: Rage Powder
+|move|p1a: Urshifu|U-turn|p2a: Amoonguss
+|-damage|p2a: Amoonguss|69/100
+|
+|t:|1748502007
+|switch|p1a: Politoed|Politoed, M|100/100|[from] U-turn
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Politoed
+|move|p1b: Archaludon|Iron Defense|p1b: Archaludon
+|-boost|p1b: Archaludon|def|2
+|move|p2b: Raging Bolt|Calm Mind|p2b: Raging Bolt
+|-boost|p2b: Raging Bolt|spa|1
+|-boost|p2b: Raging Bolt|spd|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Amoonguss|75/100|[from] item: Leftovers
+|-damage|p1b: Archaludon|82/100 brn|[from] brn
+|upkeep
+|turn|5
+|inactive|catsleepr has 120 seconds left.
+|
+|t:|1748502025
+|move|p1a: Politoed|Helping Hand|p1b: Archaludon
+|-singleturn|p1b: Archaludon|Helping Hand|[of] p1a: Politoed
+|move|p1b: Archaludon|Electro Shot||[still]
+|-prepare|p1b: Archaludon|Electro Shot
+|-boost|p1b: Archaludon|spa|1
+|-anim|p1b: Archaludon|Electro Shot|p2b: Raging Bolt
+|-resisted|p2b: Raging Bolt
+|-crit|p2b: Raging Bolt
+|-damage|p2b: Raging Bolt|75/100
+|move|p2b: Raging Bolt|Electroweb|p1a: Politoed|[spread] p1a,p1b
+|-supereffective|p1a: Politoed
+|-resisted|p1b: Archaludon
+|-damage|p1a: Politoed|44/100
+|-damage|p1b: Archaludon|63/100 brn
+|-unboost|p1a: Politoed|spe|1
+|-unboost|p1b: Archaludon|spe|1
+|-ability|p1b: Archaludon|Stamina|boost
+|-boost|p1b: Archaludon|def|1
+|move|p2a: Amoonguss|Toxic|p1a: Politoed
+|-status|p1a: Politoed|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Politoed|50/100 tox|[from] item: Leftovers
+|-heal|p2a: Amoonguss|82/100|[from] item: Leftovers
+|-damage|p1a: Politoed|44/100 tox|[from] psn
+|-damage|p1b: Archaludon|57/100 brn|[from] brn
+|upkeep
+|turn|6
+|inactive|catsleepr has 120 seconds left.
+|
+|t:|1748502049
+|move|p2b: Raging Bolt|Draco Meteor|p1b: Archaludon
+|-damage|p1b: Archaludon|0 fnt
+|-unboost|p2b: Raging Bolt|spa|2
+|faint|p1b: Archaludon
+|move|p1a: Politoed|Endeavor|p2b: Raging Bolt
+|-damage|p2b: Raging Bolt|37/100
+|move|p2a: Amoonguss|Seed Bomb|p1a: Politoed
+|-supereffective|p1a: Politoed
+|-damage|p1a: Politoed|0 fnt
+|faint|p1a: Politoed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Amoonguss|88/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1748502056
+|switch|p1b: Basculegion|Basculegion, M|100/100
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M|94/100 tox
+|turn|7
+|inactive|catsleepr has 120 seconds left.
+|
+|t:|1748502078
+|-terastallize|p1a: Urshifu|Water
+|move|p2b: Raging Bolt|Thunderclap|p1a: Urshifu
+|-supereffective|p1a: Urshifu
+|-damage|p1a: Urshifu|27/100 tox
+|move|p1b: Basculegion|Wave Crash|p2b: Raging Bolt
+|-resisted|p2b: Raging Bolt
+|-damage|p2b: Raging Bolt|1/100
+|-damage|p1b: Basculegion|86/100|[from] Recoil
+|move|p1a: Urshifu|Surging Strikes|p2b: Raging Bolt
+|-resisted|p2b: Raging Bolt
+|-crit|p2b: Raging Bolt
+|-damage|p2b: Raging Bolt|0 fnt
+|faint|p2b: Raging Bolt
+|-end|p2b: Raging Bolt|Protosynthesis|[silent]
+|-hitcount|p2: Raging Bolt|1
+|move|p2a: Amoonguss|Toxic|p1b: Basculegion
+|-status|p1b: Basculegion|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Amoonguss|94/100|[from] item: Leftovers
+|-damage|p1b: Basculegion|80/100 tox|[from] psn
+|-damage|p1a: Urshifu|21/100 tox|[from] psn
+|upkeep
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748502091
+|switch|p2b: Kyogre|Kyogre|100/100
+|turn|8
+|
+|t:|1748502105
+|move|p2a: Amoonguss|Rage Powder|p2a: Amoonguss
+|-singleturn|p2a: Amoonguss|move: Rage Powder
+|move|p1b: Basculegion|Wave Crash|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|47/100
+|-damage|p1b: Basculegion|63/100 tox|[from] Recoil
+|move|p1a: Urshifu|Surging Strikes|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-crit|p2a: Amoonguss
+|-damage|p2a: Amoonguss|26/100
+|-resisted|p2a: Amoonguss
+|-crit|p2a: Amoonguss
+|-damage|p2a: Amoonguss|7/100
+|-resisted|p2a: Amoonguss
+|-crit|p2a: Amoonguss
+|-damage|p2a: Amoonguss|0 fnt
+|faint|p2a: Amoonguss
+|-hitcount|p2: Amoonguss|3
+|move|p2b: Kyogre|Thunder|p1b: Basculegion
+|-supereffective|p1b: Basculegion
+|-damage|p1b: Basculegion|0 fnt
+|faint|p1b: Basculegion
+|
+|-weather|none
+|-damage|p1a: Urshifu|8/100 tox|[from] psn
+|upkeep
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748502129
+|switch|p1b: Tornadus|Tornadus, M|100/100
+|switch|p2a: Lugia|Lugia|100/100
+|turn|9
+|
+|t:|1748502147
+|switch|p1a: Maushold|Maushold-Four|100/100 slp
+|switch|p2b: Gholdengo|Gholdengo|100/100
+|-terastallize|p2a: Lugia|Ground
+|move|p1b: Tornadus|Protect|p1b: Tornadus
+|-singleturn|p1b: Tornadus|Protect
+|move|p2a: Lugia|Tailwind|p2a: Lugia
+|-sidestart|p2: coatoverwatch|move: Tailwind
+|
+|upkeep
+|turn|10
+|
+|t:|1748502171
+|switch|p2b: Kyogre|Kyogre|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2b: Kyogre
+|cant|p1a: Maushold|slp
+|move|p1b: Tornadus|Tailwind|p1b: Tornadus
+|-sidestart|p1: catsleepr|move: Tailwind
+|move|p2a: Lugia|Calm Mind|p2a: Lugia
+|-boost|p2a: Lugia|spa|1
+|-boost|p2a: Lugia|spd|1
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|
+|t:|1748502192
+|-curestatus|p1a: Maushold|slp|[msg]
+|move|p1a: Maushold|Follow Me|p1a: Maushold
+|-singleturn|p1a: Maushold|move: Follow Me
+|move|p1b: Tornadus|Bleakwind Storm|p2a: Lugia|[spread] p2a,p2b
+|-damage|p2a: Lugia|95/100
+|-damage|p2b: Kyogre|82/100
+|move|p2a: Lugia|Hurricane|p1a: Maushold
+|-damage|p1a: Maushold|0 fnt
+|faint|p1a: Maushold
+|-damage|p2a: Lugia|85/100|[from] item: Life Orb
+|move|p2b: Kyogre|Icy Wind|p1b: Tornadus
+|-supereffective|p1b: Tornadus
+|-damage|p1b: Tornadus|62/100
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1748502210
+|switch|p1a: Urshifu|Urshifu-Rapid-Strike, M, tera:Water|8/100 tox
+|turn|12
+|
+|t:|1748502227
+|move|p1a: Urshifu|Surging Strikes|p2a: Lugia
+|-supereffective|p2a: Lugia
+|-crit|p2a: Lugia
+|-damage|p2a: Lugia|27/100
+|-supereffective|p2a: Lugia
+|-crit|p2a: Lugia
+|-damage|p2a: Lugia|0 fnt
+|faint|p2a: Lugia
+|-hitcount|p2: Lugia|2
+|move|p1b: Tornadus|Bleakwind Storm|p2b: Kyogre
+|-damage|p2b: Kyogre|53/100
+|move|p2b: Kyogre|Origin Pulse|p1a: Urshifu|[spread] p1a,p1b
+|-resisted|p1a: Urshifu
+|-damage|p1a: Urshifu|0 fnt
+|-damage|p1b: Tornadus|0 fnt
+|faint|p1a: Urshifu
+|faint|p1b: Tornadus
+|
+|win|coatoverwatch
+|raw|catsleepr's rating: 1060 &rarr; <strong>1038</strong><br />(-22 for losing)
+|raw|coatoverwatch's rating: 1000 &rarr; <strong>1047</strong><br />(+47 for winning)
+|l|☆catsleepr
+|player|p1|

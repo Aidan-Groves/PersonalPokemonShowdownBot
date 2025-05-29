@@ -1,0 +1,226 @@
+|j|‽Joshyis2cool
+|j|☆coatoverwatch
+|t:|1748540699
+|gametype|doubles
+|player|p1|Joshyis2cool|265|1044
+|player|p2|coatoverwatch|ghetsis-gen5bw|1131
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles Ubers
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Annihilape, M|
+|poke|p1|Maushold-Four|
+|poke|p1|Zamazenta-*|
+|poke|p1|Miraidon|
+|poke|p1|Incineroar, F|
+|poke|p1|Amoonguss, M|
+|poke|p2|Amoonguss, M|
+|poke|p2|Kyogre|
+|poke|p2|Lugia|
+|poke|p2|Gholdengo|
+|poke|p2|Incineroar, F|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by coatoverwatch)
+|
+|t:|1748540717
+|start
+|switch|p1a: Maushold|Maushold-Four|100/100
+|switch|p1b: Annihilape|Annihilape, M|100/100
+|switch|p2a: Amoonguss|Amoonguss, M, shiny|100/100
+|switch|p2b: Incineroar|Incineroar, F|100/100
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Maushold|atk|1
+|-unboost|p1b: Annihilape|atk|1
+|-ability|p1b: Annihilape|Defiant|boost
+|-boost|p1b: Annihilape|atk|2
+|turn|1
+|
+|t:|1748540734
+|move|p1a: Maushold|Population Bomb|p2b: Incineroar
+|-damage|p2b: Incineroar|92/100
+|-crit|p2b: Incineroar
+|-damage|p2b: Incineroar|75/100
+|-damage|p2b: Incineroar|67/100
+|-damage|p2b: Incineroar|59/100
+|-damage|p2b: Incineroar|51/100
+|-damage|p2b: Incineroar|42/100
+|-damage|p2b: Incineroar|34/100
+|-damage|p2b: Incineroar|26/100
+|-damage|p2b: Incineroar|19/100
+|-damage|p2b: Incineroar|10/100
+|-hitcount|p2b: Incineroar|10
+|move|p1b: Annihilape|Rage Fist|p2a: Amoonguss
+|-damage|p2a: Amoonguss|36/100
+|move|p2b: Incineroar|Will-O-Wisp|p1b: Annihilape
+|-status|p1b: Annihilape|brn
+|move|p2a: Amoonguss|Spore|p1a: Maushold
+|-status|p1a: Maushold|slp|[from] move: Spore
+|
+|-heal|p2a: Amoonguss|42/100|[from] item: Leftovers
+|-damage|p1b: Annihilape|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|inactive|Joshyis2cool has 120 seconds left.
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748540771
+|cant|p1a: Maushold|slp
+|move|p2a: Amoonguss|Rage Powder|p2a: Amoonguss
+|-singleturn|p2a: Amoonguss|move: Rage Powder
+|move|p1b: Annihilape|Rage Fist|p2a: Amoonguss
+|-damage|p2a: Amoonguss|12/100
+|move|p2b: Incineroar|Parting Shot|p1b: Annihilape
+|-unboost|p1b: Annihilape|atk|1
+|-ability|p1b: Annihilape|Defiant|boost
+|-boost|p1b: Annihilape|atk|2
+|-unboost|p1b: Annihilape|spa|1
+|-ability|p1b: Annihilape|Defiant|boost
+|-boost|p1b: Annihilape|atk|2
+|
+|t:|1748540789
+|switch|p2b: Gholdengo|Gholdengo|100/100|[from] Parting Shot
+|
+|-heal|p2a: Amoonguss|18/100|[from] item: Leftovers
+|-damage|p1b: Annihilape|88/100 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748540800
+|move|p2a: Amoonguss|Rage Powder|p2a: Amoonguss
+|-singleturn|p2a: Amoonguss|move: Rage Powder
+|cant|p1a: Maushold|slp
+|move|p2b: Gholdengo|Dazzling Gleam|p1a: Maushold|[spread] p1a,p1b
+|-supereffective|p1b: Annihilape
+|-damage|p1a: Maushold|58/100 slp
+|-damage|p1b: Annihilape|33/100 brn
+|-damage|p2b: Gholdengo|91/100|[from] item: Life Orb
+|move|p1b: Annihilape|Rage Fist|p2a: Amoonguss
+|-damage|p2a: Amoonguss|0 fnt
+|faint|p2a: Amoonguss
+|
+|-damage|p1b: Annihilape|27/100 brn|[from] brn
+|upkeep
+|
+|t:|1748540810
+|switch|p2a: Lugia|Lugia|100/100
+|turn|4
+|
+|t:|1748540821
+|cant|p1a: Maushold|slp
+|move|p2b: Gholdengo|Dazzling Gleam|p1a: Maushold|[spread] p1a,p1b
+|-supereffective|p1b: Annihilape
+|-damage|p1a: Maushold|13/100 slp
+|-damage|p1b: Annihilape|0 fnt
+|faint|p1b: Annihilape
+|-damage|p2b: Gholdengo|81/100|[from] item: Life Orb
+|move|p2a: Lugia|Tailwind|p2a: Lugia
+|-sidestart|p2: coatoverwatch|move: Tailwind
+|
+|upkeep
+|
+|t:|1748540833
+|switch|p1b: Incineroar|Incineroar, F|100/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Lugia|atk|1
+|-unboost|p2b: Gholdengo|atk|1
+|turn|5
+|
+|t:|1748540848
+|move|p1b: Incineroar|Fake Out|p2b: Gholdengo
+|-immune|p2b: Gholdengo
+|move|p2b: Gholdengo|Dazzling Gleam|p1b: Incineroar|[spread] p1a,p1b
+|-damage|p1a: Maushold|0 fnt
+|-damage|p1b: Incineroar|76/100
+|faint|p1a: Maushold
+|-damage|p2b: Gholdengo|71/100|[from] item: Life Orb
+|move|p2a: Lugia|Hurricane|p1b: Incineroar
+|-damage|p1b: Incineroar|24/100
+|-damage|p2a: Lugia|91/100|[from] item: Life Orb
+|
+|upkeep
+|
+|t:|1748540860
+|switch|p1a: Zamazenta|Zamazenta-Crowned|100/100
+|-ability|p1a: Zamazenta|Dauntless Shield|boost
+|-boost|p1a: Zamazenta|def|1
+|turn|6
+|
+|t:|1748540869
+|move|p2b: Gholdengo|Dazzling Gleam|p1b: Incineroar|[spread] p1a,p1b
+|-crit|p1b: Incineroar
+|-damage|p1a: Zamazenta|80/100
+|-damage|p1b: Incineroar|0 fnt
+|faint|p1b: Incineroar
+|-damage|p2b: Gholdengo|61/100|[from] item: Life Orb
+|move|p2a: Lugia|Hurricane|p1a: Zamazenta
+|-damage|p1a: Zamazenta|30/100
+|-damage|p2a: Lugia|81/100|[from] item: Life Orb
+|move|p1a: Zamazenta|Body Press|p2b: Gholdengo
+|-immune|p2b: Gholdengo
+|
+|upkeep
+|inactive|Joshyis2cool has 120 seconds left.
+|
+|t:|1748540904
+|switch|p1b: Miraidon|Miraidon|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p1b: Miraidon
+|turn|7
+|
+|t:|1748540924
+|move|p2b: Gholdengo|Dazzling Gleam|p1a: Zamazenta|[spread] p1a,p1b
+|-supereffective|p1b: Miraidon
+|-damage|p1a: Zamazenta|7/100
+|-damage|p1b: Miraidon|53/100
+|-damage|p2b: Gholdengo|51/100|[from] item: Life Orb
+|move|p2a: Lugia|Hurricane|p1a: Zamazenta
+|-damage|p1a: Zamazenta|0 fnt
+|faint|p1a: Zamazenta
+|-damage|p2a: Lugia|71/100|[from] item: Life Orb
+|move|p1b: Miraidon|Electro Drift|p2b: Gholdengo
+|-damage|p2b: Gholdengo|0 fnt
+|faint|p2b: Gholdengo
+|
+|-sideend|p2: coatoverwatch|move: Tailwind
+|upkeep
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748540939
+|switch|p1a: Amoonguss|Amoonguss, M|100/100
+|switch|p2b: Raging Bolt|Raging Bolt|100/100
+|-enditem|p2b: Raging Bolt|Booster Energy
+|-activate|p2b: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p2b: Raging Bolt|protosynthesisspa
+|turn|8
+|
+|t:|1748540960
+|-terastallize|p2a: Lugia|Ground
+|move|p1b: Miraidon|Electro Drift|p2a: Lugia
+|-immune|p2a: Lugia
+|move|p2a: Lugia|Tailwind|p2a: Lugia
+|-sidestart|p2: coatoverwatch|move: Tailwind
+|move|p2b: Raging Bolt|Draco Meteor|p1b: Miraidon
+|-supereffective|p1b: Miraidon
+|-damage|p1b: Miraidon|0 fnt
+|-unboost|p2b: Raging Bolt|spa|2
+|faint|p1b: Miraidon
+|move|p1a: Amoonguss|Pollen Puff|p1: Miraidon|[notarget]
+|-fail|p1a: Amoonguss
+|
+|upkeep
+|turn|9
+|-message|Joshyis2cool forfeited.
+|
+|win|coatoverwatch
+|raw|Joshyis2cool's rating: 1044 &rarr; <strong>1031</strong><br />(-13 for losing)
+|raw|coatoverwatch's rating: 1131 &rarr; <strong>1150</strong><br />(+19 for winning)
+|l|‽Joshyis2cool
+|player|p1|

@@ -1,0 +1,199 @@
+|j|☆coatoverwatch
+|j|☆Don adii
+|t:|1748545860
+|gametype|doubles
+|player|p1|coatoverwatch|ghetsis-gen5bw|1186
+|player|p2|Don adii|acetrainerf|1197
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles Ubers
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Amoonguss, M|
+|poke|p1|Kyogre|
+|poke|p1|Lugia|
+|poke|p1|Gholdengo|
+|poke|p1|Incineroar, F|
+|poke|p1|Raging Bolt|
+|poke|p2|Glimmora, M|
+|poke|p2|Koraidon|
+|poke|p2|Miraidon|
+|poke|p2|Arceus|
+|poke|p2|Kingambit, F|
+|poke|p2|Necrozma-Dawn-Wings|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by Don adii)
+|inactive|coatoverwatch also wants the timer to be on.
+|
+|t:|1748545876
+|start
+|switch|p1a: Amoonguss|Amoonguss, M, shiny|100/100
+|switch|p1b: Incineroar|Incineroar, F|100/100
+|switch|p2a: Miraidon|Miraidon|100/100
+|switch|p2b: Glimmora|Glimmora, M|100/100
+|-fieldstart|move: Electric Terrain|[from] ability: Hadron Engine|[of] p2a: Miraidon
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Miraidon|atk|1
+|-unboost|p2b: Glimmora|atk|1
+|turn|1
+|inactive|Don adii has 120 seconds left.
+|
+|t:|1748545913
+|move|p2a: Miraidon|U-turn|p1b: Incineroar
+|-damage|p1b: Incineroar|92/100
+|
+|t:|1748545928
+|switch|p2a: Necrozma|Necrozma-Dawn-Wings|100/100|[from] U-turn
+|move|p2b: Glimmora|Spikes|p1a: Amoonguss
+|-sidestart|p1: coatoverwatch|Spikes
+|move|p1b: Incineroar|Will-O-Wisp|p2b: Glimmora
+|-status|p2b: Glimmora|brn
+|move|p1a: Amoonguss|Toxic|p2a: Necrozma
+|-status|p2a: Necrozma|tox
+|
+|-damage|p2a: Necrozma|94/100 tox|[from] psn
+|-damage|p2b: Glimmora|94/100 brn|[from] brn
+|upkeep
+|turn|2
+|inactive|Don adii has 120 seconds left.
+|
+|t:|1748545948
+|move|p2b: Glimmora|Spikes|p1b: Incineroar
+|-sidestart|p1: coatoverwatch|Spikes
+|move|p1b: Incineroar|Parting Shot|p2a: Necrozma
+|-unboost|p2a: Necrozma|atk|1
+|-unboost|p2a: Necrozma|spa|1
+|
+|t:|1748545953
+|switch|p1b: Gholdengo|Gholdengo|100/100|[from] Parting Shot
+|-damage|p1b: Gholdengo|84/100|[from] Spikes
+|move|p1a: Amoonguss|Seed Bomb|p2b: Glimmora
+|-damage|p2b: Glimmora|67/100 brn
+|-activate|p2b: Glimmora|ability: Toxic Debris
+|-sidestart|p1: coatoverwatch|move: Toxic Spikes
+|move|p2a: Necrozma|Trick Room|p2a: Necrozma
+|-fieldstart|move: Trick Room|[of] p2a: Necrozma
+|
+|-damage|p2a: Necrozma|82/100 tox|[from] psn
+|-damage|p2b: Glimmora|60/100 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|Don adii has 120 seconds left.
+|
+|t:|1748545976
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p2a: Necrozma|Moongeist Beam|p1a: Amoonguss
+|-damage|p1a: Amoonguss|73/100
+|move|p1b: Gholdengo|Make It Rain|p2b: Glimmora|[spread] p2a,p2b
+|-supereffective|p2b: Glimmora
+|-damage|p2a: Necrozma|42/100 tox
+|-damage|p2b: Glimmora|0 fnt
+|-unboost|p1b: Gholdengo|spa|1
+|faint|p2b: Glimmora
+|-damage|p1b: Gholdengo|74/100|[from] item: Life Orb
+|
+|-heal|p1a: Amoonguss|80/100|[from] item: Leftovers
+|-damage|p2a: Necrozma|24/100 tox|[from] psn
+|upkeep
+|
+|t:|1748545995
+|switch|p2b: Kingambit|Kingambit, F, shiny|100/100
+|-activate|p2b: Kingambit|ability: Supreme Overlord
+|-start|p2b: Kingambit|fallen1|[silent]
+|-item|p2b: Kingambit|Air Balloon
+|turn|4
+|inactive|Don adii has 120 seconds left.
+|
+|t:|1748546008
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p2b: Kingambit|Swords Dance|p2b: Kingambit
+|-boost|p2b: Kingambit|atk|2
+|move|p2a: Necrozma|Meteor Beam||[still]
+|-prepare|p2a: Necrozma|Meteor Beam
+|-boost|p2a: Necrozma|spa|1
+|-enditem|p2a: Necrozma|Power Herb
+|-anim|p2a: Necrozma|Meteor Beam|p1a: Amoonguss
+|-damage|p1a: Amoonguss|45/100
+|move|p1b: Gholdengo|Nasty Plot|p1b: Gholdengo
+|-boost|p1b: Gholdengo|spa|2
+|
+|-heal|p1a: Amoonguss|51/100|[from] item: Leftovers
+|-damage|p2a: Necrozma|0 fnt|[from] psn
+|faint|p2a: Necrozma
+|upkeep
+|
+|t:|1748546025
+|switch|p2a: Koraidon|Koraidon|100/100
+|-weather|SunnyDay|[from] ability: Orichalcum Pulse|[of] p2a: Koraidon
+|-activate|p2a: Koraidon|Orichalcum Pulse|[source]
+|turn|5
+|inactive|Don adii has 120 seconds left.
+|
+|t:|1748546039
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p2b: Kingambit|Kowtow Cleave|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|move|p1b: Gholdengo|Dazzling Gleam|p2a: Koraidon|[spread] p2a,p2b
+|-supereffective|p2a: Koraidon
+|-damage|p2a: Koraidon|0 fnt
+|-damage|p2b: Kingambit|61/100
+|-enditem|p2b: Kingambit|Air Balloon
+|faint|p2a: Koraidon
+|-damage|p1b: Gholdengo|64/100|[from] item: Life Orb
+|
+|-weather|SunnyDay|[upkeep]
+|-fieldend|move: Electric Terrain
+|upkeep
+|
+|t:|1748546054
+|switch|p1a: Incineroar|Incineroar, F|92/100
+|switch|p2a: Arceus|Arceus|100/100
+|-damage|p1a: Incineroar|76/100|[from] Spikes
+|-status|p1a: Incineroar|psn
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Arceus|atk|1
+|-unboost|p2b: Kingambit|atk|1
+|turn|6
+|inactive|Don adii has 120 seconds left.
+|
+|t:|1748546082
+|move|p1a: Incineroar|Fake Out|p2b: Kingambit
+|-resisted|p2b: Kingambit
+|-damage|p2b: Kingambit|57/100
+|cant|p2b: Kingambit|flinch
+|move|p1b: Gholdengo|Dazzling Gleam|p2b: Kingambit|[spread] p2a,p2b
+|-damage|p2a: Arceus|70/100
+|-damage|p2b: Kingambit|14/100
+|-damage|p1b: Gholdengo|54/100|[from] item: Life Orb
+|move|p2a: Arceus|Earthquake|p1b: Gholdengo|[spread] p2b,p1a,p1b
+|-supereffective|p2b: Kingambit
+|-supereffective|p1a: Incineroar
+|-supereffective|p1b: Gholdengo
+|-damage|p2b: Kingambit|0 fnt
+|-damage|p1a: Incineroar|47/100 psn
+|-damage|p1b: Gholdengo|14/100
+|faint|p2b: Kingambit
+|-end|p2b: Kingambit|fallen1|[silent]
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2a: Arceus|76/100|[from] item: Leftovers
+|-damage|p1a: Incineroar|35/100 psn|[from] psn
+|-fieldend|move: Trick Room
+|upkeep
+|-message|Don adii forfeited.
+|
+|win|coatoverwatch
+|raw|coatoverwatch's rating: 1186 &rarr; <strong>1212</strong><br />(+26 for winning)
+|raw|Don adii's rating: 1197 &rarr; <strong>1171</strong><br />(-26 for losing)
+|l|☆Don adii
+|player|p2|

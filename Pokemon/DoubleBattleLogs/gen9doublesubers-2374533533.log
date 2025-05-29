@@ -1,0 +1,244 @@
+|j|☆coatoverwatch
+|j|☆Silentcomet
+|t:|1748539667
+|gametype|doubles
+|player|p1|coatoverwatch|ghetsis-gen5bw|1108
+|player|p2|Silentcomet|101|1050
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles Ubers
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Amoonguss, M|
+|poke|p1|Kyogre|
+|poke|p1|Lugia|
+|poke|p1|Gholdengo|
+|poke|p1|Incineroar, M|
+|poke|p1|Raging Bolt|
+|poke|p2|Annihilape, F|
+|poke|p2|Basculegion, M|
+|poke|p2|Grimmsnarl, M|
+|poke|p2|Dragonite, M|
+|poke|p2|Raichu, M|
+|poke|p2|Politoed, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by coatoverwatch)
+|
+|t:|1748539680
+|start
+|switch|p1a: Amoonguss|Amoonguss, M, shiny|100/100
+|switch|p1b: Incineroar|Incineroar, M|100/100
+|switch|p2a: Politoed|Politoed, M|100/100
+|switch|p2b: Raichu|Raichu, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2a: Politoed
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Politoed|atk|1
+|-unboost|p2b: Raichu|atk|1
+|turn|1
+|
+|t:|1748539703
+|move|p1b: Incineroar|Fake Out|p2b: Raichu
+|-damage|p2b: Raichu|78/100
+|cant|p2b: Raichu|flinch
+|move|p2a: Politoed|Weather Ball|p1b: Incineroar
+|-supereffective|p1b: Incineroar
+|-damage|p1b: Incineroar|12/100
+|move|p1a: Amoonguss|Toxic|p2a: Politoed
+|-status|p2a: Politoed|tox
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Politoed|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1748539722
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p2b: Raichu|Volt Switch|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|91/100
+|
+|t:|1748539730
+|switch|p2b: Annihilape|Annihilape, F|100/100|[from] Volt Switch
+|move|p2a: Politoed|Encore|p1a: Amoonguss
+|-start|p1a: Amoonguss|Encore
+|move|p1b: Incineroar|Parting Shot|p2b: Annihilape
+|-unboost|p2b: Annihilape|atk|1
+|-ability|p2b: Annihilape|Defiant|boost
+|-boost|p2b: Annihilape|atk|2
+|-unboost|p2b: Annihilape|spa|1
+|-ability|p2b: Annihilape|Defiant|boost
+|-boost|p2b: Annihilape|atk|2
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748539749
+|switch|p1b: Gholdengo|Gholdengo|100/100|[from] Parting Shot
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Amoonguss|97/100|[from] item: Leftovers
+|-damage|p2a: Politoed|82/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1748539774
+|switch|p2a: Dragonite|Dragonite, M|100/100
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p1b: Gholdengo|Dazzling Gleam|p2a: Dragonite|[spread] p2a,p2b
+|-supereffective|p2a: Dragonite
+|-supereffective|p2b: Annihilape
+|-damage|p2a: Dragonite|71/100
+|-damage|p2b: Annihilape|50/100
+|-damage|p1b: Gholdengo|91/100|[from] item: Life Orb
+|move|p2b: Annihilape|Rage Fist|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|
+|t:|1748539787
+|switch|p1a: Lugia|Lugia|100/100
+|turn|4
+|
+|t:|1748539801
+|-terastallize|p1a: Lugia|Ground
+|move|p1b: Gholdengo|Dazzling Gleam|p2b: Annihilape|[spread] p2a,p2b
+|-supereffective|p2a: Dragonite
+|-supereffective|p2b: Annihilape
+|-damage|p2a: Dragonite|10/100
+|-damage|p2b: Annihilape|6/100
+|-damage|p1b: Gholdengo|81/100|[from] item: Life Orb
+|move|p2a: Dragonite|Draco Meteor|p1b: Gholdengo
+|-resisted|p1b: Gholdengo
+|-damage|p1b: Gholdengo|47/100
+|-unboost|p2a: Dragonite|spa|2
+|-damage|p2a: Dragonite|0 fnt|[from] item: Life Orb
+|faint|p2a: Dragonite
+|move|p1a: Lugia|Tailwind|p1a: Lugia
+|-sidestart|p1: coatoverwatch|move: Tailwind
+|move|p2b: Annihilape|Rage Fist|p1b: Gholdengo
+|-supereffective|p1b: Gholdengo
+|-damage|p1b: Gholdengo|0 fnt
+|faint|p1b: Gholdengo
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|Silentcomet has 120 seconds left.
+|
+|t:|1748539830
+|switch|p1b: Incineroar|Incineroar, M|12/100
+|switch|p2a: Raichu|Raichu, M|78/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Raichu|atk|1
+|-unboost|p2b: Annihilape|atk|1
+|-ability|p2b: Annihilape|Defiant|boost
+|-boost|p2b: Annihilape|atk|2
+|turn|5
+|
+|t:|1748539845
+|move|p2a: Raichu|Fake Out|p1a: Lugia
+|-damage|p1a: Lugia|99/100
+|move|p1b: Incineroar|Fake Out|p2a: Raichu
+|-damage|p2a: Raichu|54/100
+|cant|p1a: Lugia|flinch
+|move|p2b: Annihilape|Rage Fist|p1a: Lugia
+|-damage|p1a: Lugia|0 fnt
+|faint|p1a: Lugia
+|
+|-weather|none
+|upkeep
+|
+|t:|1748539851
+|switch|p1a: Kyogre|Kyogre|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|6
+|
+|t:|1748539867
+|move|p1b: Incineroar|Helping Hand|p1a: Kyogre
+|-singleturn|p1a: Kyogre|Helping Hand|[of] p1b: Incineroar
+|move|p1a: Kyogre|Icy Wind|p2a: Raichu|[spread] p2a,p2b
+|-crit|p2a: Raichu
+|-damage|p2a: Raichu|0 fnt
+|-damage|p2b: Annihilape|0 fnt
+|faint|p2a: Raichu
+|faint|p2b: Annihilape
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|inactive|Silentcomet has 120 seconds left.
+|
+|t:|1748539883
+|switch|p2a: Politoed|Politoed, M|82/100 tox
+|switch|p2b: Basculegion|Basculegion, M|100/100
+|turn|7
+|
+|t:|1748539906
+|move|p1b: Incineroar|Helping Hand|p1a: Kyogre
+|-singleturn|p1a: Kyogre|Helping Hand|[of] p1b: Incineroar
+|move|p2b: Basculegion|Last Respects|p1a: Kyogre
+|-damage|p1a: Kyogre|13/100
+|move|p1a: Kyogre|Thunder|p2b: Basculegion
+|-supereffective|p2b: Basculegion
+|-damage|p2b: Basculegion|0 fnt
+|faint|p2b: Basculegion
+|move|p2a: Politoed|Weather Ball|p1b: Incineroar
+|-supereffective|p1b: Incineroar
+|-damage|p1b: Incineroar|0 fnt
+|faint|p1b: Incineroar
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Politoed|76/100 tox|[from] psn
+|-sideend|p1: coatoverwatch|move: Tailwind
+|upkeep
+|inactive|coatoverwatch has 120 seconds left.
+|inactive|Silentcomet has 120 seconds left.
+|
+|t:|1748539923
+|switch|p2b: Grimmsnarl|Grimmsnarl, M|100/100
+|switch|p1b: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1b: Raging Bolt|Booster Energy
+|-activate|p1b: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1b: Raging Bolt|protosynthesisspa
+|turn|8
+|
+|t:|1748539945
+|-terastallize|p2a: Politoed|Water
+|move|p2b: Grimmsnarl|Fake Out|p1b: Raging Bolt
+|-damage|p1b: Raging Bolt|88/100
+|move|p1a: Kyogre|Origin Pulse|p2b: Grimmsnarl|[spread] p2a,p2b
+|-resisted|p2a: Politoed
+|-damage|p2a: Politoed|41/100 tox
+|-damage|p2b: Grimmsnarl|14/100
+|-enditem|p2a: Politoed|Sitrus Berry|[eat]
+|-heal|p2a: Politoed|66/100 tox|[from] item: Sitrus Berry
+|cant|p1b: Raging Bolt|flinch
+|move|p2a: Politoed|Weather Ball|p1a: Kyogre
+|-resisted|p1a: Kyogre
+|-damage|p1a: Kyogre|0 fnt
+|faint|p1a: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2a: Politoed|54/100 tox|[from] psn
+|upkeep
+|turn|9
+|
+|t:|1748539972
+|move|p2b: Grimmsnarl|Thunder Wave|p1b: Raging Bolt
+|-immune|p1b: Raging Bolt
+|move|p1b: Raging Bolt|Electroweb|p2b: Grimmsnarl|[spread] p2a,p2b
+|-supereffective|p2a: Politoed
+|-damage|p2a: Politoed|0 fnt
+|-damage|p2b: Grimmsnarl|0 fnt
+|faint|p2a: Politoed
+|faint|p2b: Grimmsnarl
+|
+|win|coatoverwatch
+|raw|coatoverwatch's rating: 1108 &rarr; <strong>1129</strong><br />(+21 for winning)
+|raw|Silentcomet's rating: 1050 &rarr; <strong>1035</strong><br />(-15 for losing)

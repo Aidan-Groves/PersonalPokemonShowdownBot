@@ -1,0 +1,104 @@
+|j|☆Jool Aid
+|j|☆coatoverwatch
+|t:|1748545090
+|gametype|doubles
+|player|p1|Jool Aid|gentleman-gen4|1142
+|player|p2|coatoverwatch|ghetsis-gen5bw|1143
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles Ubers
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Volcarona, F|
+|poke|p1|Koraidon|
+|poke|p1|Tyranitar, M|
+|poke|p1|Salamence, F|
+|poke|p1|Serperior, M|
+|poke|p1|Haxorus, M|
+|poke|p2|Amoonguss, M|
+|poke|p2|Kyogre|
+|poke|p2|Lugia|
+|poke|p2|Gholdengo|
+|poke|p2|Incineroar, F|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by coatoverwatch)
+|inactive|Jool Aid has 120 seconds left.
+|
+|t:|1748545140
+|start
+|switch|p1a: DaBiggest|Tyranitar, M|100/100
+|switch|p1b: Samuel|Serperior, M, shiny|100/100
+|switch|p2a: Amoonguss|Amoonguss, M, shiny|100/100
+|switch|p2b: Incineroar|Incineroar, F|100/100
+|-weather|Sandstorm|[from] ability: Sand Stream|[of] p1a: DaBiggest
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: DaBiggest|atk|1
+|-boost|p1b: Samuel|atk|1
+|turn|1
+|inactive|Jool Aid has 120 seconds left.
+|inactive|Jool Aid has 90 seconds left.
+|
+|t:|1748545208
+|-terastallize|p1b: Samuel|Dragon
+|move|p2b: Incineroar|Fake Out|p1a: DaBiggest
+|-resisted|p1a: DaBiggest
+|-damage|p1a: DaBiggest|96/100
+|move|p1b: Samuel|Leaf Storm|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|93/100
+|-boost|p1b: Samuel|spa|2
+|cant|p1a: DaBiggest|flinch
+|move|p2a: Amoonguss|Toxic|p1b: Samuel
+|-status|p1b: Samuel|tox
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1b: Samuel|94/100 tox|[from] Sandstorm
+|-damage|p2b: Incineroar|94/100|[from] Sandstorm
+|-damage|p2a: Amoonguss|86/100|[from] Sandstorm
+|-heal|p2a: Amoonguss|93/100|[from] item: Leftovers
+|-damage|p1b: Samuel|88/100 tox|[from] psn
+|upkeep
+|turn|2
+|inactive|Jool Aid has 90 seconds left.
+|
+|t:|1748545248
+|move|p2a: Amoonguss|Rage Powder|p2a: Amoonguss
+|-singleturn|p2a: Amoonguss|move: Rage Powder
+|move|p1b: Samuel|Leaf Storm|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|77/100
+|-boost|p1b: Samuel|spa|2
+|move|p1a: DaBiggest|Scary Face|p2a: Amoonguss
+|-unboost|p2a: Amoonguss|spe|2
+|move|p2b: Incineroar|Will-O-Wisp|p1a: DaBiggest
+|-status|p1a: DaBiggest|brn
+|
+|-weather|Sandstorm|[upkeep]
+|-damage|p1b: Samuel|82/100 tox|[from] Sandstorm
+|-damage|p2b: Incineroar|88/100|[from] Sandstorm
+|-damage|p2a: Amoonguss|71/100|[from] Sandstorm
+|-heal|p2a: Amoonguss|77/100|[from] item: Leftovers
+|-damage|p1b: Samuel|70/100 tox|[from] psn
+|-damage|p1a: DaBiggest|90/100 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|Jool Aid has 90 seconds left.
+|inactive|coatoverwatch has 120 seconds left.
+|inactive|Jool Aid has 60 seconds left.
+|inactive|Jool Aid has 30 seconds left.
+|inactive|Jool Aid has 20 seconds left.
+|inactive|Jool Aid has 15 seconds left.
+|inactive|Jool Aid has 10 seconds left.
+|inactive|Jool Aid has 5 seconds left.
+|-message|Jool Aid lost due to inactivity.
+|
+|win|coatoverwatch
+|raw|Jool Aid's rating: 1142 &rarr; <strong>1117</strong><br />(-25 for losing)
+|raw|coatoverwatch's rating: 1143 &rarr; <strong>1168</strong><br />(+25 for winning)

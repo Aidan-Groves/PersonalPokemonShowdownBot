@@ -1,0 +1,206 @@
+|j|☆nfgbvfdfgdfs
+|j|☆coatoverwatch
+|t:|1748539343
+|gametype|doubles
+|player|p1|nfgbvfdfgdfs|ghetsis-gen5bw|1000
+|player|p2|coatoverwatch|ghetsis-gen5bw|1088
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles Ubers
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Cinccino, F|
+|poke|p1|Tinkaton, F|
+|poke|p1|Iron Valiant|
+|poke|p1|Blaziken, F|
+|poke|p1|Kingambit, M|
+|poke|p1|Landorus-Therian, M|
+|poke|p2|Amoonguss, M|
+|poke|p2|Kyogre|
+|poke|p2|Lugia|
+|poke|p2|Gholdengo|
+|poke|p2|Incineroar, F|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by coatoverwatch)
+|
+|t:|1748539372
+|start
+|switch|p1a: Kingambit|Kingambit, M|100/100
+|switch|p1b: Tinkaton|Tinkaton, F|100/100
+|switch|p2a: Amoonguss|Amoonguss, M, shiny|100/100
+|switch|p2b: Incineroar|Incineroar, F|100/100
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Kingambit|atk|1
+|-ability|p1a: Kingambit|Defiant|boost
+|-boost|p1a: Kingambit|atk|2
+|-fail|p1b: Tinkaton|unboost|Attack|[from] ability: Own Tempo|[of] p1b: Tinkaton
+|turn|1
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748539408
+|move|p1b: Tinkaton|Fake Out|p2a: Amoonguss
+|-damage|p2a: Amoonguss|86/100
+|-damage|p1b: Tinkaton|91/100|[from] item: Life Orb
+|move|p2b: Incineroar|Fake Out|p1a: Kingambit
+|-resisted|p1a: Kingambit
+|-crit|p1a: Kingambit
+|-damage|p1a: Kingambit|95/100
+|cant|p1a: Kingambit|flinch
+|cant|p2a: Amoonguss|flinch
+|
+|-heal|p1a: Kingambit|100/100|[from] item: Leftovers
+|-heal|p2a: Amoonguss|93/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1748539428
+|move|p1b: Tinkaton|Light Screen|p1b: Tinkaton
+|-sidestart|p1: nfgbvfdfgdfs|move: Light Screen
+|move|p2b: Incineroar|Will-O-Wisp|p1a: Kingambit
+|-status|p1a: Kingambit|brn
+|move|p1a: Kingambit|Swords Dance|p1a: Kingambit
+|-boost|p1a: Kingambit|atk|2
+|move|p2a: Amoonguss|Spore|p1b: Tinkaton
+|-status|p1b: Tinkaton|slp|[from] move: Spore
+|
+|-heal|p2a: Amoonguss|99/100|[from] item: Leftovers
+|-damage|p1a: Kingambit|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|nfgbvfdfgdfs has 120 seconds left.
+|
+|t:|1748539458
+|switch|p1b: Blaziken|Blaziken, F, shiny|100/100
+|move|p2b: Incineroar|Parting Shot|p1a: Kingambit
+|-unboost|p1a: Kingambit|atk|1
+|-ability|p1a: Kingambit|Defiant|boost
+|-boost|p1a: Kingambit|atk|2
+|-unboost|p1a: Kingambit|spa|1
+|-ability|p1a: Kingambit|Defiant|boost
+|-boost|p1a: Kingambit|atk|2
+|inactive|coatoverwatch has 120 seconds left.
+|c|☆coatoverwatch|whoops
+|
+|t:|1748539472
+|switch|p2b: Kyogre|Kyogre|100/100|[from] Parting Shot
+|-weather|RainDance|[from] ability: Drizzle|[of] p2b: Kyogre
+|move|p1a: Kingambit|Low Kick|p2b: Kyogre
+|-damage|p2b: Kyogre|12/100
+|move|p2a: Amoonguss|Seed Bomb|p1b: Blaziken
+|-resisted|p1b: Blaziken
+|-damage|p1b: Blaziken|81/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kingambit|100/100 brn|[from] item: Leftovers
+|-heal|p2a: Amoonguss|100/100|[from] item: Leftovers
+|-damage|p1a: Kingambit|94/100 brn|[from] brn
+|upkeep
+|turn|4
+|n|☆nfgbvfdfgdfs|nfgbvfdfgdfs
+|inactive|nfgbvfdfgdfs has 120 seconds left.
+|
+|t:|1748539508
+|switch|p1b: Iron Valiant|Iron Valiant|100/100
+|-enditem|p1b: Iron Valiant|Booster Energy
+|-activate|p1b: Iron Valiant|ability: Quark Drive|[fromitem]
+|-start|p1b: Iron Valiant|quarkdrivespa
+|move|p2a: Amoonguss|Rage Powder|p2a: Amoonguss
+|-singleturn|p2a: Amoonguss|move: Rage Powder
+|move|p2b: Kyogre|Origin Pulse|p1b: Iron Valiant|[spread] p1a,p1b
+|-damage|p1a: Kingambit|44/100 brn
+|-damage|p1b: Iron Valiant|13/100
+|move|p1a: Kingambit|Low Kick|p2a: Amoonguss
+|-resisted|p2a: Amoonguss
+|-damage|p2a: Amoonguss|85/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Kingambit|50/100 brn|[from] item: Leftovers
+|-heal|p2a: Amoonguss|91/100|[from] item: Leftovers
+|-damage|p1a: Kingambit|44/100 brn|[from] brn
+|upkeep
+|turn|5
+|inactive|nfgbvfdfgdfs has 120 seconds left.
+|
+|t:|1748539542
+|move|p2a: Amoonguss|Rage Powder|p2a: Amoonguss
+|-singleturn|p2a: Amoonguss|move: Rage Powder
+|move|p1b: Iron Valiant|Destiny Bond|p1b: Iron Valiant
+|-singlemove|p1b: Iron Valiant|Destiny Bond
+|move|p2b: Kyogre|Origin Pulse|p1a: Kingambit|[spread] p1a,p1b
+|-damage|p1a: Kingambit|0 fnt
+|-damage|p1b: Iron Valiant|0 fnt
+|faint|p1a: Kingambit
+|faint|p1b: Iron Valiant
+|-activate|p1b: Iron Valiant|move: Destiny Bond
+|-end|p1b: Iron Valiant|Quark Drive|[silent]
+|faint|p2b: Kyogre
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Amoonguss|98/100|[from] item: Leftovers
+|upkeep
+|inactive|nfgbvfdfgdfs has 90 seconds left.
+|
+|t:|1748539558
+|switch|p1b: Tinkaton|Tinkaton, F|91/100 slp
+|switch|p2b: Lugia|Lugia|100/100
+|switch|p1a: Cinccino|Cinccino, F|100/100
+|turn|6
+|
+|t:|1748539580
+|move|p1a: Cinccino|Substitute|p1a: Cinccino
+|-start|p1a: Cinccino|Substitute
+|-damage|p1a: Cinccino|76/100
+|cant|p1b: Tinkaton|slp
+|move|p2b: Lugia|Tailwind|p2b: Lugia
+|-sidestart|p2: coatoverwatch|move: Tailwind
+|move|p2a: Amoonguss|Toxic||[still]
+|-fail|p2a: Amoonguss
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2a: Amoonguss|100/100|[from] item: Leftovers
+|-sideend|p1: nfgbvfdfgdfs|move: Light Screen
+|upkeep
+|turn|7
+|inactive|nfgbvfdfgdfs has 120 seconds left.
+|
+|t:|1748539599
+|move|p2b: Lugia|Hurricane|p1a: Cinccino
+|-end|p1a: Cinccino|Substitute
+|-damage|p2b: Lugia|91/100|[from] item: Life Orb
+|move|p1a: Cinccino|Calm Mind|p1a: Cinccino
+|-boost|p1a: Cinccino|spa|1
+|-boost|p1a: Cinccino|spd|1
+|cant|p1b: Tinkaton|slp
+|move|p2a: Amoonguss|Seed Bomb|p1a: Cinccino
+|-damage|p1a: Cinccino|34/100
+|
+|-weather|none
+|upkeep
+|turn|8
+|inactive|nfgbvfdfgdfs has 120 seconds left.
+|
+|t:|1748539632
+|move|p2b: Lugia|Psychic|p1a: Cinccino
+|-damage|p1a: Cinccino|0 fnt
+|faint|p1a: Cinccino
+|-damage|p2b: Lugia|81/100|[from] item: Life Orb
+|cant|p1b: Tinkaton|slp
+|move|p2a: Amoonguss|Seed Bomb|p1b: Tinkaton
+|-resisted|p1b: Tinkaton
+|-damage|p1b: Tinkaton|73/100 slp
+|
+|upkeep
+|-message|nfgbvfdfgdfs forfeited.
+|
+|win|coatoverwatch
+|raw|nfgbvfdfgdfs's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|coatoverwatch's rating: 1088 &rarr; <strong>1108</strong><br />(+20 for winning)
+|l|☆nfgbvfdfgdfs
+|player|p1|

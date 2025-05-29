@@ -1,0 +1,362 @@
+|j|☆coatoverwatch
+|j|☆leonardoservage
+|t:|1748545358
+|gametype|doubles
+|player|p1|coatoverwatch|ghetsis-gen5bw|1168
+|player|p2|leonardoservage|volkner|1072
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles Ubers
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Amoonguss, M|
+|poke|p1|Kyogre|
+|poke|p1|Lugia|
+|poke|p1|Gholdengo|
+|poke|p1|Incineroar, M|
+|poke|p1|Raging Bolt|
+|poke|p2|Gothitelle, M|
+|poke|p2|Politoed, M|
+|poke|p2|Archaludon, M|
+|poke|p2|Flutter Mane|
+|poke|p2|Haunter, M|
+|poke|p2|Amoonguss, M|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by coatoverwatch)
+|
+|t:|1748545364
+|start
+|switch|p1a: Amoonguss|Amoonguss, M, shiny|100/100
+|switch|p1b: Incineroar|Incineroar, M|100/100
+|switch|p2a: Archaludon|Archaludon, M|100/100
+|switch|p2b: Amoonguss|Amoonguss, M|100/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Archaludon|atk|1
+|-unboost|p2b: Amoonguss|atk|1
+|turn|1
+|
+|t:|1748545385
+|move|p1b: Incineroar|Fake Out|p2b: Amoonguss
+|-damage|p2b: Amoonguss|91/100
+|move|p2a: Archaludon|Body Press|p1b: Incineroar
+|-supereffective|p1b: Incineroar
+|-damage|p1b: Incineroar|46/100
+|move|p1a: Amoonguss|Spore|p2a: Archaludon
+|-status|p2a: Archaludon|slp|[from] move: Spore
+|cant|p2b: Amoonguss|flinch
+|
+|-heal|p2b: Amoonguss|98/100|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1748545405
+|switch|p2b: Politoed|Politoed, M|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p2b: Politoed
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|cant|p2a: Archaludon|slp
+|move|p1b: Incineroar|Will-O-Wisp|p2b: Politoed
+|-status|p2b: Politoed|brn
+|
+|-weather|RainDance|[upkeep]
+|-damage|p2b: Politoed|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|
+|t:|1748545423
+|switch|p2b: Amoonguss|Amoonguss, M|100/100
+|cant|p2a: Archaludon|slp
+|move|p1b: Incineroar|Parting Shot|p2a: Archaludon
+|-unboost|p2a: Archaludon|atk|1
+|-unboost|p2a: Archaludon|spa|1
+|
+|t:|1748545430
+|switch|p1b: Lugia|Lugia|100/100|[from] Parting Shot
+|move|p1a: Amoonguss|Seed Bomb|p2b: Amoonguss
+|-resisted|p2b: Amoonguss
+|-damage|p2b: Amoonguss|95/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Amoonguss|100/100|[from] item: Leftovers
+|upkeep
+|turn|4
+|
+|t:|1748545450
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p1b: Lugia|Calm Mind|p1b: Lugia
+|-boost|p1b: Lugia|spa|1
+|-boost|p1b: Lugia|spd|1
+|-curestatus|p2a: Archaludon|slp|[msg]
+|move|p2a: Archaludon|Electro Shot||[still]
+|-prepare|p2a: Archaludon|Electro Shot
+|-boost|p2a: Archaludon|spa|1
+|-anim|p2a: Archaludon|Electro Shot|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|83/100
+|move|p2b: Amoonguss|Spore|p1b: Lugia
+|-status|p1b: Lugia|slp|[from] move: Spore
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Amoonguss|90/100|[from] item: Leftovers
+|upkeep
+|turn|5
+|
+|t:|1748545471
+|cant|p1b: Lugia|slp
+|move|p2a: Archaludon|Electro Shot||[still]
+|-prepare|p2a: Archaludon|Electro Shot
+|-boost|p2a: Archaludon|spa|1
+|-anim|p2a: Archaludon|Electro Shot|p1b: Lugia
+|-supereffective|p1b: Lugia
+|-damage|p1b: Lugia|75/100 slp
+|move|p1a: Amoonguss|Spore|p2a: Archaludon
+|-status|p2a: Archaludon|slp|[from] move: Spore
+|move|p2b: Amoonguss|Pollen Puff|p1a: Amoonguss
+|-damage|p1a: Amoonguss|76/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Amoonguss|82/100|[from] item: Leftovers
+|upkeep
+|turn|6
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748545504
+|cant|p1b: Lugia|slp
+|cant|p2a: Archaludon|slp
+|move|p1a: Amoonguss|Seed Bomb|p2b: Amoonguss
+|-resisted|p2b: Amoonguss
+|-damage|p2b: Amoonguss|95/100
+|move|p2b: Amoonguss|Spore|p1b: Lugia
+|-fail|p1b: Lugia|slp
+|
+|-weather|none
+|-heal|p1a: Amoonguss|89/100|[from] item: Leftovers
+|-heal|p2b: Amoonguss|100/100|[from] item: Leftovers
+|upkeep
+|turn|7
+|
+|t:|1748545528
+|cant|p1b: Lugia|slp
+|cant|p2a: Archaludon|slp
+|move|p1a: Amoonguss|Spore|p2a: Archaludon
+|-fail|p2a: Archaludon|slp
+|move|p2b: Amoonguss|Pollen Puff|p1a: Amoonguss
+|-damage|p1a: Amoonguss|74/100
+|
+|-heal|p1a: Amoonguss|80/100|[from] item: Leftovers
+|upkeep
+|turn|8
+|
+|t:|1748545545
+|-curestatus|p1b: Lugia|slp|[msg]
+|move|p1b: Lugia|Psychic|p2b: Amoonguss
+|-supereffective|p2b: Amoonguss
+|-damage|p2b: Amoonguss|0 fnt
+|faint|p2b: Amoonguss
+|-damage|p1b: Lugia|65/100|[from] item: Life Orb
+|-curestatus|p2a: Archaludon|slp|[msg]
+|move|p2a: Archaludon|Draco Meteor|p1a: Amoonguss
+|-damage|p1a: Amoonguss|12/100
+|-unboost|p2a: Archaludon|spa|2
+|move|p1a: Amoonguss|Spore|p2a: Archaludon
+|-status|p2a: Archaludon|slp|[from] move: Spore
+|
+|-heal|p1a: Amoonguss|18/100|[from] item: Leftovers
+|upkeep
+|inactive|leonardoservage has 120 seconds left.
+|
+|t:|1748545563
+|switch|p2b: Politoed|Politoed, M|94/100 brn
+|-weather|RainDance|[from] ability: Drizzle|[of] p2b: Politoed
+|turn|9
+|
+|t:|1748545573
+|move|p1b: Lugia|Tailwind|p1b: Lugia
+|-sidestart|p1: coatoverwatch|move: Tailwind
+|cant|p2a: Archaludon|slp
+|move|p1a: Amoonguss|Seed Bomb|p2b: Politoed
+|-supereffective|p2b: Politoed
+|-damage|p2b: Politoed|47/100 brn
+|move|p2b: Politoed|Weather Ball|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|1/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Amoonguss|7/100|[from] item: Leftovers
+|-damage|p2b: Politoed|41/100 brn|[from] brn
+|upkeep
+|turn|10
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748545605
+|switch|p2b: Haunter|Haunter, M|100/100
+|move|p1b: Lugia|Hurricane|p2a: Archaludon
+|-resisted|p2a: Archaludon
+|-damage|p2a: Archaludon|53/100 slp
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|-damage|p1b: Lugia|55/100|[from] item: Life Orb
+|cant|p2a: Archaludon|slp
+|move|p1a: Amoonguss|Seed Bomb|p2b: Haunter
+|-resisted|p2b: Haunter
+|-damage|p2b: Haunter|82/100
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Amoonguss|13/100|[from] item: Leftovers
+|upkeep
+|turn|11
+|
+|t:|1748545626
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p1b: Lugia|Psychic|p2b: Haunter
+|-supereffective|p2b: Haunter
+|-damage|p2b: Haunter|0 fnt
+|faint|p2b: Haunter
+|-damage|p1b: Lugia|45/100|[from] item: Life Orb
+|cant|p2a: Archaludon|slp
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Amoonguss|20/100|[from] item: Leftovers
+|upkeep
+|inactive|leonardoservage has 120 seconds left.
+|
+|t:|1748545638
+|switch|p2b: Politoed|Politoed, M|41/100 brn
+|turn|12
+|
+|t:|1748545646
+|move|p1b: Lugia|Hurricane|p2a: Archaludon
+|-resisted|p2a: Archaludon
+|-damage|p2a: Archaludon|4/100 slp
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|-damage|p1b: Lugia|35/100|[from] item: Life Orb
+|-curestatus|p2a: Archaludon|slp|[msg]
+|move|p2a: Archaludon|Electro Shot||[still]
+|-prepare|p2a: Archaludon|Electro Shot
+|-boost|p2a: Archaludon|spa|1
+|-anim|p2a: Archaludon|Electro Shot|p1b: Lugia
+|-supereffective|p1b: Lugia
+|-damage|p1b: Lugia|2/100
+|move|p1a: Amoonguss|Seed Bomb|p2b: Politoed
+|-supereffective|p2b: Politoed
+|-damage|p2b: Politoed|0 fnt
+|faint|p2b: Politoed
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Amoonguss|26/100|[from] item: Leftovers
+|-sideend|p1: coatoverwatch|move: Tailwind
+|upkeep
+|
+|t:|1748545666
+|switch|p2b: Gothitelle|Gothitelle, M|100/100
+|turn|13
+|
+|t:|1748545672
+|move|p2b: Gothitelle|Fake Out|p1b: Lugia
+|-damage|p1b: Lugia|0 fnt
+|faint|p1b: Lugia
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p2a: Archaludon|Electro Shot||[still]
+|-prepare|p2a: Archaludon|Electro Shot
+|-boost|p2a: Archaludon|spa|1
+|-anim|p2a: Archaludon|Electro Shot|p1a: Amoonguss
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|4/100
+|
+|-weather|none
+|-heal|p1a: Amoonguss|10/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1748545678
+|switch|p1b: Incineroar|Incineroar, M|46/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Archaludon|atk|1
+|-unboost|p2b: Gothitelle|atk|1
+|turn|14
+|
+|t:|1748545693
+|move|p1b: Incineroar|Fake Out|p2a: Archaludon
+|-resisted|p2a: Archaludon
+|-damage|p2a: Archaludon|3/100
+|-ability|p2a: Archaludon|Stamina|boost
+|-boost|p2a: Archaludon|def|1
+|cant|p2a: Archaludon|flinch
+|move|p2b: Gothitelle|Psychic|p1a: Amoonguss
+|-supereffective|p1a: Amoonguss
+|-damage|p1a: Amoonguss|0 fnt
+|faint|p1a: Amoonguss
+|
+|upkeep
+|
+|t:|1748545703
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|turn|15
+|
+|t:|1748545714
+|-terastallize|p2b: Gothitelle|Ghost
+|move|p1b: Incineroar|Helping Hand|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|move|p1a: Gholdengo|Dazzling Gleam|p2b: Gothitelle|[spread] p2a,p2b
+|-damage|p2a: Archaludon|0 fnt
+|-damage|p2b: Gothitelle|81/100
+|faint|p2a: Archaludon
+|-damage|p1a: Gholdengo|91/100|[from] item: Life Orb
+|move|p2b: Gothitelle|Shadow Ball|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|26/100
+|
+|-heal|p2b: Gothitelle|87/100|[from] item: Leftovers
+|upkeep
+|
+|t:|1748545730
+|switch|p2a: Flutter Mane|Flutter Mane|100/100
+|turn|16
+|
+|t:|1748545743
+|move|p2a: Flutter Mane|Draining Kiss|p1b: Incineroar
+|-damage|p1b: Incineroar|27/100
+|move|p1a: Gholdengo|Make It Rain|p2a: Flutter Mane|[spread] p2a,p2b
+|-supereffective|p2a: Flutter Mane
+|-damage|p2a: Flutter Mane|0 fnt
+|-damage|p2b: Gothitelle|38/100
+|-unboost|p1a: Gholdengo|spa|1
+|faint|p2a: Flutter Mane
+|-end|p2a: Flutter Mane|Protosynthesis|[silent]
+|-damage|p1a: Gholdengo|16/100|[from] item: Life Orb
+|move|p2b: Gothitelle|Shadow Ball|p1a: Gholdengo
+|-supereffective|p1a: Gholdengo
+|-damage|p1a: Gholdengo|0 fnt
+|faint|p1a: Gholdengo
+|move|p1b: Incineroar|Will-O-Wisp|p2b: Gothitelle
+|-status|p2b: Gothitelle|brn
+|
+|-heal|p2b: Gothitelle|44/100 brn|[from] item: Leftovers
+|-damage|p2b: Gothitelle|38/100 brn|[from] brn
+|upkeep
+|
+|t:|1748545751
+|switch|p1a: Kyogre|Kyogre|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1a: Kyogre
+|turn|17
+|
+|t:|1748545769
+|-terastallize|p1a: Kyogre|Water
+|move|p1b: Incineroar|Helping Hand|p1a: Kyogre
+|-singleturn|p1a: Kyogre|Helping Hand|[of] p1b: Incineroar
+|move|p1a: Kyogre|Origin Pulse|p2b: Gothitelle
+|-damage|p2b: Gothitelle|0 fnt
+|faint|p2b: Gothitelle
+|
+|win|coatoverwatch
+|raw|coatoverwatch's rating: 1168 &rarr; <strong>1186</strong><br />(+18 for winning)
+|raw|leonardoservage's rating: 1072 &rarr; <strong>1057</strong><br />(-15 for losing)

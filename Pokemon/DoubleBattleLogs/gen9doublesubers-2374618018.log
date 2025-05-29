@@ -1,0 +1,433 @@
+|j|☆coatoverwatch
+|j|☆saiqszada
+|t:|1748547539
+|gametype|doubles
+|player|p1|coatoverwatch|ghetsis-gen5bw|1252
+|player|p2|saiqszada|170|1309
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles Ubers
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Amoonguss, M|
+|poke|p1|Kyogre|
+|poke|p1|Lugia|
+|poke|p1|Gholdengo|
+|poke|p1|Incineroar, M|
+|poke|p1|Raging Bolt|
+|poke|p2|Toxapex, M|
+|poke|p2|Zamazenta-*|
+|poke|p2|Gyarados, M|
+|poke|p2|Incineroar, F|
+|poke|p2|Salazzle, F|
+|poke|p2|Amoonguss, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by coatoverwatch)
+|
+|t:|1748547553
+|start
+|switch|p1a: Amoonguss|Amoonguss, M, shiny|100/100
+|switch|p1b: Incineroar|Incineroar, M|100/100
+|switch|p2a: Incineroar|Incineroar, F|100/100
+|switch|p2b: Salazzle|Salazzle, F|100/100
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Amoonguss|atk|1
+|-unboost|p1b: Incineroar|atk|1
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Incineroar|atk|1
+|-unboost|p2b: Salazzle|atk|1
+|turn|1
+|
+|t:|1748547568
+|move|p1b: Incineroar|Fake Out|p2b: Salazzle
+|-damage|p2b: Salazzle|88/100
+|move|p2a: Incineroar|Fake Out|p1b: Incineroar
+|-damage|p1b: Incineroar|92/100
+|cant|p2b: Salazzle|flinch
+|move|p1a: Amoonguss|Toxic|p2a: Incineroar
+|-status|p2a: Incineroar|tox
+|
+|-damage|p2a: Incineroar|94/100 tox|[from] psn
+|upkeep
+|turn|2
+|
+|t:|1748547583
+|move|p2b: Salazzle|Toxic|p1a: Amoonguss
+|-status|p1a: Amoonguss|tox
+|move|p1b: Incineroar|Parting Shot|p2b: Salazzle
+|-unboost|p2b: Salazzle|atk|1
+|-unboost|p2b: Salazzle|spa|1
+|
+|t:|1748547594
+|switch|p1b: Kyogre|Kyogre|100/100|[from] Parting Shot
+|-weather|RainDance|[from] ability: Drizzle|[of] p1b: Kyogre
+|move|p2a: Incineroar|U-turn|p1a: Amoonguss
+|-damage|p1a: Amoonguss|84/100 tox
+|
+|t:|1748547602
+|switch|p2a: Toxapex|Toxapex, M, shiny|100/100|[from] U-turn
+|move|p1a: Amoonguss|Spore|p2b: Salazzle
+|-status|p2b: Salazzle|slp|[from] move: Spore
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Amoonguss|90/100 tox|[from] item: Leftovers
+|-damage|p1a: Amoonguss|84/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1748547618
+|switch|p2b: Amoonguss|Amoonguss, F, shiny|100/100
+|move|p1b: Kyogre|Origin Pulse|p2a: Toxapex|[spread] p2a,p2b
+|-resisted|p2a: Toxapex
+|-resisted|p2b: Amoonguss
+|-damage|p2a: Toxapex|74/100
+|-damage|p2b: Amoonguss|76/100
+|move|p1a: Amoonguss|Seed Bomb|p2a: Toxapex
+|-damage|p2a: Toxapex|62/100
+|move|p2a: Toxapex|Toxic|p1b: Kyogre
+|-status|p1b: Kyogre|tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Amoonguss|82/100|[from] item: Leftovers
+|-heal|p1a: Amoonguss|90/100 tox|[from] item: Leftovers
+|-heal|p2a: Toxapex|68/100|[from] item: Black Sludge
+|-damage|p1b: Kyogre|94/100 tox|[from] psn
+|-damage|p1a: Amoonguss|78/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1748547647
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p1b: Kyogre|Thunder|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|5/100
+|move|p2b: Amoonguss|Pollen Puff|p2a: Toxapex
+|-heal|p2a: Toxapex|55/100
+|move|p2a: Toxapex|Infestation|p1a: Amoonguss
+|-damage|p1a: Amoonguss|75/100 tox
+|-activate|p1a: Amoonguss|move: Infestation|[of] p2a: Toxapex
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Amoonguss|88/100|[from] item: Leftovers
+|-heal|p1a: Amoonguss|82/100 tox|[from] item: Leftovers
+|-heal|p2a: Toxapex|62/100|[from] item: Black Sludge
+|-damage|p1b: Kyogre|82/100 tox|[from] psn
+|-damage|p1a: Amoonguss|63/100 tox|[from] psn
+|-damage|p1a: Amoonguss|50/100 tox|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|5
+|
+|t:|1748547669
+|move|p2b: Amoonguss|Rage Powder|p2b: Amoonguss
+|-singleturn|p2b: Amoonguss|move: Rage Powder
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p1b: Kyogre|Thunder|p2b: Amoonguss
+|-resisted|p2b: Amoonguss
+|-damage|p2b: Amoonguss|74/100
+|move|p2a: Toxapex|Infestation|p1a: Amoonguss
+|-crit|p1a: Amoonguss
+|-damage|p1a: Amoonguss|47/100 tox
+|
+|-weather|RainDance|[upkeep]
+|-heal|p1a: Amoonguss|54/100 tox|[from] item: Leftovers
+|-heal|p2b: Amoonguss|80/100|[from] item: Leftovers
+|-heal|p2a: Toxapex|68/100|[from] item: Black Sludge
+|-damage|p1b: Kyogre|64/100 tox|[from] psn
+|-damage|p1a: Amoonguss|29/100 tox|[from] psn
+|-damage|p1a: Amoonguss|16/100 tox|[from] move: Infestation|[partiallytrapped]
+|upkeep
+|turn|6
+|
+|t:|1748547689
+|switch|p1b: Incineroar|Incineroar, M|92/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Toxapex|atk|1
+|-unboost|p2b: Amoonguss|atk|1
+|move|p2b: Amoonguss|Protect|p2b: Amoonguss
+|-singleturn|p2b: Amoonguss|Protect
+|move|p2a: Toxapex|Baneful Bunker|p2a: Toxapex
+|-singleturn|p2a: Toxapex|move: Protect
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|
+|-weather|none
+|-heal|p2b: Amoonguss|86/100|[from] item: Leftovers
+|-heal|p1a: Amoonguss|22/100 tox|[from] item: Leftovers
+|-heal|p2a: Toxapex|74/100|[from] item: Black Sludge
+|-damage|p1a: Amoonguss|0 fnt|[from] psn
+|faint|p1a: Amoonguss
+|upkeep
+|
+|t:|1748547702
+|switch|p1a: Lugia|Lugia|100/100
+|turn|7
+|
+|t:|1748547722
+|switch|p2b: Gyarados|Gyarados, M|100/100
+|-ability|p2b: Gyarados|Intimidate|boost
+|-unboost|p1a: Lugia|atk|1
+|-unboost|p1b: Incineroar|atk|1
+|move|p2a: Toxapex|Baneful Bunker||[still]
+|-fail|p2a: Toxapex
+|move|p1b: Incineroar|Fake Out|p2b: Gyarados
+|-damage|p2b: Gyarados|90/100
+|move|p1a: Lugia|Psychic|p2a: Toxapex
+|-supereffective|p2a: Toxapex
+|-damage|p2a: Toxapex|0 fnt
+|faint|p2a: Toxapex
+|-damage|p1a: Lugia|91/100|[from] item: Life Orb
+|
+|upkeep
+|inactive|saiqszada has 120 seconds left.
+|
+|t:|1748547740
+|switch|p2a: Incineroar|Incineroar, F|94/100 tox
+|-ability|p2a: Incineroar|Intimidate|boost
+|-unboost|p1a: Lugia|atk|1
+|-unboost|p1b: Incineroar|atk|1
+|turn|8
+|
+|t:|1748547757
+|move|p2a: Incineroar|Fake Out|p1a: Lugia
+|-damage|p1a: Lugia|81/100
+|move|p2b: Gyarados|Outrage|p1b: Incineroar
+|-damage|p1b: Incineroar|52/100
+|cant|p1a: Lugia|flinch
+|move|p1b: Incineroar|Will-O-Wisp|p2b: Gyarados
+|-status|p2b: Gyarados|brn
+|
+|-damage|p2a: Incineroar|88/100 tox|[from] psn
+|-damage|p2b: Gyarados|84/100 brn|[from] brn
+|upkeep
+|turn|9
+|
+|t:|1748547782
+|move|p2b: Gyarados|Outrage|p1a: Lugia|[from] lockedmove
+|-damage|p1a: Lugia|67/100
+|-start|p2b: Gyarados|confusion|[fatigue]
+|move|p1a: Lugia|Tailwind|p1a: Lugia
+|-sidestart|p1: coatoverwatch|move: Tailwind
+|move|p1b: Incineroar|Parting Shot|p2b: Gyarados
+|-unboost|p2b: Gyarados|atk|1
+|-unboost|p2b: Gyarados|spa|1
+|
+|t:|1748547792
+|switch|p1b: Kyogre|Kyogre|64/100 tox|[from] Parting Shot
+|-weather|RainDance|[from] ability: Drizzle|[of] p1b: Kyogre
+|move|p2a: Incineroar|Knock Off|p1a: Lugia
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|0 fnt
+|-enditem|p1a: Lugia|Life Orb|[from] move: Knock Off|[of] p2a: Incineroar
+|faint|p1a: Lugia
+|
+|-weather|RainDance|[upkeep]
+|-damage|p1b: Kyogre|58/100 tox|[from] psn
+|-damage|p2a: Incineroar|76/100 tox|[from] psn
+|-damage|p2b: Gyarados|78/100 brn|[from] brn
+|upkeep
+|
+|t:|1748547801
+|switch|p1a: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1a: Raging Bolt|Booster Energy
+|-activate|p1a: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1a: Raging Bolt|protosynthesisspa
+|turn|10
+|
+|t:|1748547820
+|switch|p2b: Amoonguss|Amoonguss, F, shiny|100/100
+|move|p1b: Kyogre|Origin Pulse|p2b: Amoonguss|[spread] p2a,p2b
+|-supereffective|p2a: Incineroar
+|-crit|p2a: Incineroar
+|-resisted|p2b: Amoonguss
+|-damage|p2a: Incineroar|0 fnt
+|-damage|p2b: Amoonguss|72/100
+|faint|p2a: Incineroar
+|move|p1a: Raging Bolt|Electroweb|p2b: Amoonguss
+|-resisted|p2b: Amoonguss
+|-damage|p2b: Amoonguss|58/100
+|-unboost|p2b: Amoonguss|spe|1
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Amoonguss|64/100|[from] item: Leftovers
+|-damage|p1b: Kyogre|46/100 tox|[from] psn
+|upkeep
+|inactive|saiqszada has 120 seconds left.
+|
+|t:|1748547839
+|switch|p2a: Zamazenta|Zamazenta-Crowned, shiny|100/100
+|-ability|p2a: Zamazenta|Dauntless Shield|boost
+|-boost|p2a: Zamazenta|def|1
+|turn|11
+|
+|t:|1748547861
+|move|p2a: Zamazenta|Protect|p2a: Zamazenta
+|-singleturn|p2a: Zamazenta|Protect
+|move|p2b: Amoonguss|Protect|p2b: Amoonguss
+|-singleturn|p2b: Amoonguss|Protect
+|move|p1b: Kyogre|Blizzard|p2b: Amoonguss|[spread] 
+|-activate|p2a: Zamazenta|move: Protect
+|-activate|p2b: Amoonguss|move: Protect
+|move|p1a: Raging Bolt|Electroweb|p2b: Amoonguss|[spread] 
+|-activate|p2a: Zamazenta|move: Protect
+|-activate|p2b: Amoonguss|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Amoonguss|70/100|[from] item: Leftovers
+|-damage|p1b: Kyogre|27/100 tox|[from] psn
+|upkeep
+|turn|12
+|
+|t:|1748547889
+|move|p1b: Kyogre|Blizzard|p2b: Amoonguss|[spread] p2a,p2b
+|-resisted|p2a: Zamazenta
+|-supereffective|p2b: Amoonguss
+|-damage|p2a: Zamazenta|90/100
+|-damage|p2b: Amoonguss|22/100
+|move|p1a: Raging Bolt|Electroweb|p2a: Zamazenta|[spread] p2a,p2b
+|-resisted|p2b: Amoonguss
+|-damage|p2a: Zamazenta|68/100
+|-damage|p2b: Amoonguss|11/100
+|-unboost|p2a: Zamazenta|spe|1
+|-unboost|p2b: Amoonguss|spe|1
+|move|p2a: Zamazenta|Iron Defense|p2a: Zamazenta
+|-boost|p2a: Zamazenta|def|2
+|move|p2b: Amoonguss|Spore|p1a: Raging Bolt
+|-status|p1a: Raging Bolt|slp|[from] move: Spore
+|
+|-weather|RainDance|[upkeep]
+|-heal|p2b: Amoonguss|17/100|[from] item: Leftovers
+|-damage|p1b: Kyogre|3/100 tox|[from] psn
+|-sideend|p1: coatoverwatch|move: Tailwind
+|upkeep
+|turn|13
+|
+|t:|1748547914
+|move|p2b: Amoonguss|Protect|p2b: Amoonguss
+|-singleturn|p2b: Amoonguss|Protect
+|cant|p1a: Raging Bolt|slp
+|move|p1b: Kyogre|Origin Pulse|p2b: Amoonguss|[spread] 
+|-activate|p2b: Amoonguss|move: Protect
+|-miss|p1b: Kyogre|p2a: Zamazenta
+|move|p2a: Zamazenta|Body Press|p1a: Raging Bolt
+|-damage|p1a: Raging Bolt|19/100 slp
+|
+|-weather|none
+|-heal|p2b: Amoonguss|23/100|[from] item: Leftovers
+|-damage|p1b: Kyogre|0 fnt|[from] psn
+|faint|p1b: Kyogre
+|upkeep
+|
+|t:|1748547924
+|switch|p1b: Incineroar|Incineroar, M|52/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Zamazenta|atk|1
+|-unboost|p2b: Amoonguss|atk|1
+|turn|14
+|
+|t:|1748547952
+|switch|p2a: Salazzle|Salazzle, F|88/100 slp
+|move|p1b: Incineroar|Fake Out|p2a: Salazzle
+|-damage|p2a: Salazzle|69/100 slp
+|-curestatus|p1a: Raging Bolt|slp|[msg]
+|move|p1a: Raging Bolt|Thunderclap||[still]
+|-fail|p1a: Raging Bolt
+|move|p2b: Amoonguss|Spore|p1b: Incineroar
+|-status|p1b: Incineroar|slp|[from] move: Spore
+|
+|-heal|p2b: Amoonguss|29/100|[from] item: Leftovers
+|upkeep
+|turn|15
+|inactive|coatoverwatch has 120 seconds left.
+|inactive|saiqszada has 120 seconds left.
+|
+|t:|1748547989
+|move|p2b: Amoonguss|Rage Powder|p2b: Amoonguss
+|-singleturn|p2b: Amoonguss|move: Rage Powder
+|cant|p2a: Salazzle|slp
+|move|p1a: Raging Bolt|Draco Meteor|p2b: Amoonguss
+|-damage|p2b: Amoonguss|0 fnt
+|-unboost|p1a: Raging Bolt|spa|2
+|faint|p2b: Amoonguss
+|cant|p1b: Incineroar|slp
+|
+|upkeep
+|
+|t:|1748548003
+|switch|p2b: Zamazenta|Zamazenta-Crowned, shiny|68/100
+|turn|16
+|
+|t:|1748548012
+|-end|p1a: Raging Bolt|Protosynthesis|[silent]
+|switch|p1a: Gholdengo|Gholdengo|100/100
+|-curestatus|p2a: Salazzle|slp|[msg]
+|move|p2a: Salazzle|Venoshock|p1a: Gholdengo
+|-immune|p1a: Gholdengo
+|move|p2b: Zamazenta|Body Press|p1b: Incineroar
+|-supereffective|p1b: Incineroar
+|-damage|p1b: Incineroar|0 fnt
+|faint|p1b: Incineroar
+|
+|upkeep
+|
+|t:|1748548020
+|switch|p1b: Raging Bolt|Raging Bolt|19/100
+|turn|17
+|
+|t:|1748548031
+|move|p2b: Zamazenta|Protect|p2b: Zamazenta
+|-singleturn|p2b: Zamazenta|Protect
+|move|p1b: Raging Bolt|Thunderclap||[still]
+|-fail|p1b: Raging Bolt
+|move|p2a: Salazzle|Toxic|p1a: Gholdengo
+|-immune|p1a: Gholdengo|[from] ability: Good as Gold
+|move|p1a: Gholdengo|Dazzling Gleam|p2a: Salazzle|[spread] p2a
+|-activate|p2b: Zamazenta|move: Protect
+|-resisted|p2a: Salazzle
+|-damage|p2a: Salazzle|58/100
+|-damage|p1a: Gholdengo|91/100|[from] item: Life Orb
+|
+|upkeep
+|turn|18
+|
+|t:|1748548049
+|move|p1b: Raging Bolt|Thunderclap|p2b: Zamazenta
+|-damage|p2b: Zamazenta|41/100
+|move|p2a: Salazzle|Heat Wave|p1b: Raging Bolt|[spread] p1a,p1b
+|-supereffective|p1a: Gholdengo
+|-resisted|p1b: Raging Bolt
+|-damage|p1a: Gholdengo|16/100
+|-damage|p1b: Raging Bolt|4/100
+|move|p1a: Gholdengo|Dazzling Gleam|p2a: Salazzle|[spread] p2a,p2b
+|-resisted|p2a: Salazzle
+|-damage|p2a: Salazzle|46/100
+|-damage|p2b: Zamazenta|23/100
+|-damage|p1a: Gholdengo|6/100|[from] item: Life Orb
+|move|p2b: Zamazenta|Body Press|p1b: Raging Bolt
+|-damage|p1b: Raging Bolt|0 fnt
+|faint|p1b: Raging Bolt
+|-end|p1b: Raging Bolt|Protosynthesis|[silent]
+|
+|upkeep
+|turn|19
+|
+|t:|1748548077
+|move|p2a: Salazzle|Heat Wave|p1a: Gholdengo|[miss]
+|-miss|p2a: Salazzle|p1a: Gholdengo
+|move|p1a: Gholdengo|Dazzling Gleam|p2b: Zamazenta|[spread] p2a,p2b
+|-resisted|p2a: Salazzle
+|-damage|p2a: Salazzle|33/100
+|-damage|p2b: Zamazenta|4/100
+|-damage|p1a: Gholdengo|0 fnt|[from] item: Life Orb
+|faint|p1a: Gholdengo
+|
+|win|saiqszada
+|raw|coatoverwatch's rating: 1252 &rarr; <strong>1231</strong><br />(-21 for losing)
+|raw|saiqszada's rating: 1309 &rarr; <strong>1326</strong><br />(+17 for winning)

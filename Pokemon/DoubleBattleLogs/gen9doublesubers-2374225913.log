@@ -1,0 +1,127 @@
+|j|‽vgvnbm ggb v
+|j|☆coatoverwatch
+|t:|1748502256
+|gametype|doubles
+|player|p1|vgvnbm ggb v|265|1000
+|player|p2|coatoverwatch|ghetsis-gen5bw|1047
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles Ubers
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Blastoise, F|
+|poke|p1|Garchomp, F|
+|poke|p1|Gogoat, M|
+|poke|p1|Beartic, F|
+|poke|p1|Houndoom, M|
+|poke|p1|Zapdos|
+|poke|p2|Amoonguss, M|
+|poke|p2|Kyogre|
+|poke|p2|Lugia|
+|poke|p2|Gholdengo|
+|poke|p2|Incineroar, M|
+|poke|p2|Raging Bolt|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by coatoverwatch)
+|
+|t:|1748502273
+|start
+|switch|p1a: Gogoat|Gogoat, M, shiny|100/100
+|switch|p1b: Houndoom|Houndoom, M, shiny|100/100
+|switch|p2a: Amoonguss|Amoonguss, M, shiny|100/100
+|switch|p2b: Incineroar|Incineroar, M|100/100
+|-ability|p1b: Houndoom|Unnerve
+|-ability|p2b: Incineroar|Intimidate|boost
+|-unboost|p1a: Gogoat|atk|1
+|-unboost|p1b: Houndoom|atk|1
+|turn|1
+|
+|t:|1748502293
+|move|p2b: Incineroar|Fake Out|p1b: Houndoom
+|-crit|p1b: Houndoom
+|-damage|p1b: Houndoom|70/100
+|cant|p1b: Houndoom|flinch
+|move|p1a: Gogoat|Grassy Terrain|p1a: Gogoat
+|-fieldstart|move: Grassy Terrain
+|-enditem|p1a: Gogoat|Grassy Seed
+|-boost|p1a: Gogoat|def|1|[from] item: Grassy Seed
+|move|p2a: Amoonguss|Spore|p1b: Houndoom
+|-status|p1b: Houndoom|slp|[from] move: Spore
+|
+|-heal|p1b: Houndoom|76/100 slp|[from] Grassy Terrain
+|-heal|p1b: Houndoom|83/100 slp|[from] item: Leftovers
+|upkeep
+|turn|2
+|
+|t:|1748502317
+|cant|p1b: Houndoom|slp
+|move|p1a: Gogoat|Solar Beam||[still]
+|-prepare|p1a: Gogoat|Solar Beam
+|move|p2b: Incineroar|Parting Shot|p1b: Houndoom
+|-unboost|p1b: Houndoom|atk|1
+|-unboost|p1b: Houndoom|spa|1
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748502330
+|switch|p2b: Gholdengo|Gholdengo|100/100|[from] Parting Shot
+|move|p2a: Amoonguss|Toxic|p1a: Gogoat
+|-status|p1a: Gogoat|tox
+|
+|-heal|p1b: Houndoom|89/100 slp|[from] Grassy Terrain
+|-heal|p1b: Houndoom|95/100 slp|[from] item: Leftovers
+|-damage|p1a: Gogoat|94/100 tox|[from] psn
+|upkeep
+|turn|3
+|
+|t:|1748502351
+|move|p2a: Amoonguss|Rage Powder|p2a: Amoonguss
+|-singleturn|p2a: Amoonguss|move: Rage Powder
+|cant|p1b: Houndoom|slp
+|move|p2b: Gholdengo|Nasty Plot|p2b: Gholdengo
+|-boost|p2b: Gholdengo|spa|2
+|move|p1a: Gogoat|Solar Beam|p2a: Amoonguss|[from] lockedmove
+|-resisted|p2a: Amoonguss
+|-crit|p2a: Amoonguss
+|-damage|p2a: Amoonguss|81/100
+|
+|-heal|p1b: Houndoom|100/100 slp|[from] Grassy Terrain
+|-heal|p1a: Gogoat|100/100 tox|[from] Grassy Terrain
+|-heal|p2a: Amoonguss|87/100|[from] Grassy Terrain
+|-heal|p2a: Amoonguss|94/100|[from] item: Leftovers
+|-damage|p1a: Gogoat|88/100 tox|[from] psn
+|upkeep
+|turn|4
+|
+|t:|1748502374
+|cant|p1b: Houndoom|slp
+|move|p2b: Gholdengo|Dazzling Gleam|p1b: Houndoom|[spread] p1a,p1b
+|-crit|p1b: Houndoom
+|-damage|p1a: Gogoat|37/100 tox
+|-damage|p1b: Houndoom|0 fnt
+|faint|p1b: Houndoom
+|-damage|p2b: Gholdengo|91/100|[from] item: Life Orb
+|move|p1a: Gogoat|Sunny Day|p1a: Gogoat
+|-weather|SunnyDay
+|move|p2a: Amoonguss|Spore|p1a: Gogoat
+|-immune|p1a: Gogoat
+|
+|-weather|SunnyDay|[upkeep]
+|-heal|p2b: Gholdengo|97/100|[from] Grassy Terrain
+|-heal|p1a: Gogoat|43/100 tox|[from] Grassy Terrain
+|-heal|p2a: Amoonguss|99/100|[from] Grassy Terrain
+|-heal|p2a: Amoonguss|100/100|[from] item: Leftovers
+|-damage|p1a: Gogoat|25/100 tox|[from] psn
+|upkeep
+|-message|vgvnbm ggb v forfeited.
+|
+|win|coatoverwatch
+|raw|vgvnbm ggb v's rating: 1000 &rarr; <strong>1000</strong><br />(+0 for losing)
+|raw|coatoverwatch's rating: 1047 &rarr; <strong>1076</strong><br />(+29 for winning)
+|l|‽vgvnbm ggb v
+|player|p1|

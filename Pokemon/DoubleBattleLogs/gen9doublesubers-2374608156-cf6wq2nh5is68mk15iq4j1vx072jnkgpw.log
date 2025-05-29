@@ -1,0 +1,272 @@
+|j|☆coatoverwatch
+|j|☆B bleep
+|t:|1748546583
+|gametype|doubles
+|player|p1|coatoverwatch|ghetsis-gen5bw|1232
+|player|p2|B bleep|101|1167
+|teamsize|p1|6
+|teamsize|p2|6
+|gen|9
+|tier|[Gen 9] Doubles Ubers
+|rated|
+|rule|HP Percentage Mod: HP is shown in percentages
+|rule|Endless Battle Clause: Forcing endless battles is banned
+|rule|Species Clause: Limit one of each Pokémon
+|rule|OHKO Clause: OHKO moves are banned
+|rule|Evasion Moves Clause: Evasion moves are banned
+|clearpoke
+|poke|p1|Amoonguss, M|
+|poke|p1|Kyogre|
+|poke|p1|Lugia|
+|poke|p1|Gholdengo|
+|poke|p1|Incineroar, M|
+|poke|p1|Raging Bolt|
+|poke|p2|Hatterene, F|
+|poke|p2|Flutter Mane|
+|poke|p2|Gardevoir, F|
+|poke|p2|Espeon, M|
+|poke|p2|Calyrex-Ice|
+|poke|p2|Ursaluna, F|
+|teampreview
+|inactive|Battle timer is ON: inactive players will automatically lose when time's up. (requested by coatoverwatch)
+|
+|t:|1748546605
+|start
+|switch|p1a: Amoonguss|Amoonguss, M, shiny|100/100
+|switch|p1b: Incineroar|Incineroar, M|100/100
+|switch|p2a: Espeon|Espeon, M|100/100
+|switch|p2b: Gardevoir|Gardevoir, F|100/100
+|-ability|p1b: Incineroar|Intimidate|boost
+|-unboost|p2a: Espeon|atk|1
+|-unboost|p2b: Gardevoir|atk|1
+|turn|1
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748546651
+|move|p2b: Gardevoir|Protect|p2b: Gardevoir
+|-singleturn|p2b: Gardevoir|Protect
+|move|p1b: Incineroar|Fake Out|p2b: Gardevoir
+|-activate|p2b: Gardevoir|move: Protect
+|move|p1a: Amoonguss|Spore|p2b: Gardevoir
+|-activate|p2b: Gardevoir|move: Protect
+|move|p2a: Espeon|Trick Room|p2a: Espeon
+|-fieldstart|move: Trick Room|[of] p2a: Espeon
+|
+|upkeep
+|turn|2
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748546680
+|switch|p2b: Hatterene|Hatterene, F|100/100
+|switch|p2a: Calyrex|Calyrex-Ice|100/100
+|-ability|p2a: Calyrex|As One
+|-ability|p2a: Calyrex|Unnerve
+|move|p1a: Amoonguss|Spore|p2b: Hatterene
+|move|p2b: Hatterene|Spore|p1a: Amoonguss|[from] ability: Magic Bounce
+|-immune|p1a: Amoonguss
+|move|p1b: Incineroar|Will-O-Wisp|p2a: Calyrex
+|-status|p2a: Calyrex|brn
+|
+|-damage|p2a: Calyrex|94/100 brn|[from] brn
+|upkeep
+|turn|3
+|inactive|coatoverwatch has 120 seconds left.
+|
+|t:|1748546715
+|-terastallize|p2b: Hatterene|Fairy
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p2b: Hatterene|Dazzling Gleam|p1a: Amoonguss|[spread] p1a,p1b
+|-resisted|p1a: Amoonguss
+|-damage|p1a: Amoonguss|79/100
+|-damage|p1b: Incineroar|57/100
+|move|p2a: Calyrex|Glacial Lance|p1a: Amoonguss|[spread] p1a,p1b
+|-supereffective|p1a: Amoonguss
+|-resisted|p1b: Incineroar
+|-damage|p1a: Amoonguss|12/100
+|-damage|p1b: Incineroar|42/100
+|move|p1b: Incineroar|Parting Shot|p2a: Calyrex
+|-unboost|p2a: Calyrex|atk|1
+|-unboost|p2a: Calyrex|spa|1
+|inactive|coatoverwatch has 90 seconds left.
+|
+|t:|1748546742
+|switch|p1b: Gholdengo|Gholdengo|100/100|[from] Parting Shot
+|
+|-heal|p1a: Amoonguss|19/100|[from] item: Leftovers
+|-damage|p2a: Calyrex|88/100 brn|[from] brn
+|upkeep
+|turn|4
+|
+|t:|1748546752
+|switch|p2b: Gardevoir|Gardevoir, F|100/100
+|move|p1a: Amoonguss|Rage Powder|p1a: Amoonguss
+|-singleturn|p1a: Amoonguss|move: Rage Powder
+|move|p2a: Calyrex|Glacial Lance|p1a: Amoonguss|[spread] p1a,p1b
+|-supereffective|p1a: Amoonguss
+|-resisted|p1b: Gholdengo
+|-damage|p1a: Amoonguss|0 fnt
+|-damage|p1b: Gholdengo|89/100
+|faint|p1a: Amoonguss
+|-ability|p2a: Calyrex|Chilling Neigh|boost
+|-boost|p2a: Calyrex|atk|1
+|move|p1b: Gholdengo|Make It Rain|p2b: Gardevoir|[spread] p2a,p2b
+|-supereffective|p2a: Calyrex
+|-supereffective|p2b: Gardevoir
+|-damage|p2a: Calyrex|2/100 brn
+|-damage|p2b: Gardevoir|0 fnt
+|-unboost|p1b: Gholdengo|spa|1
+|-enditem|p2a: Calyrex|Weakness Policy
+|-boost|p2a: Calyrex|atk|2|[from] item: Weakness Policy
+|-boost|p2a: Calyrex|spa|2|[from] item: Weakness Policy
+|faint|p2b: Gardevoir
+|-damage|p1b: Gholdengo|79/100|[from] item: Life Orb
+|
+|-damage|p2a: Calyrex|0 fnt|[from] brn
+|faint|p2a: Calyrex
+|upkeep
+|inactive|coatoverwatch has 90 seconds left.
+|inactive|B bleep has 120 seconds left.
+|
+|t:|1748546791
+|switch|p2a: Hatterene|Hatterene, F, tera:Fairy|100/100
+|switch|p1a: Incineroar|Incineroar, M|42/100
+|switch|p2b: Espeon|Espeon, M|100/100
+|-ability|p1a: Incineroar|Intimidate|boost
+|-unboost|p2a: Hatterene|atk|1
+|-unboost|p2b: Espeon|atk|1
+|turn|5
+|inactive|B bleep has 120 seconds left.
+|
+|t:|1748546812
+|move|p1a: Incineroar|Helping Hand|p1b: Gholdengo
+|-immune|p1b: Gholdengo|[from] ability: Good as Gold
+|move|p2a: Hatterene|Dazzling Gleam|p1b: Gholdengo|[spread] p1a,p1b
+|-resisted|p1b: Gholdengo
+|-damage|p1a: Incineroar|0 fnt
+|-damage|p1b: Gholdengo|37/100
+|faint|p1a: Incineroar
+|move|p2b: Espeon|Reflect|p2b: Espeon
+|-sidestart|p2: B bleep|Reflect
+|move|p1b: Gholdengo|Make It Rain|p2b: Espeon|[spread] p2a,p2b
+|-supereffective|p2a: Hatterene
+|-crit|p2a: Hatterene
+|-damage|p2a: Hatterene|0 fnt
+|-damage|p2b: Espeon|70/100
+|-unboost|p1b: Gholdengo|spa|1
+|faint|p2a: Hatterene
+|-damage|p1b: Gholdengo|27/100|[from] item: Life Orb
+|
+|-fieldend|move: Trick Room
+|upkeep
+|
+|t:|1748546828
+|switch|p1a: Lugia|Lugia|100/100
+|switch|p2a: Flutter Mane|Flutter Mane|100/100
+|turn|6
+|inactive|B bleep has 120 seconds left.
+|
+|t:|1748546854
+|move|p1b: Gholdengo|Make It Rain|p2a: Flutter Mane|[spread] p2a,p2b
+|-supereffective|p2a: Flutter Mane
+|-damage|p2a: Flutter Mane|50/100
+|-damage|p2b: Espeon|48/100
+|-unboost|p1b: Gholdengo|spa|1
+|-damage|p1b: Gholdengo|17/100|[from] item: Life Orb
+|move|p2b: Espeon|Light Screen|p2b: Espeon
+|-sidestart|p2: B bleep|move: Light Screen
+|move|p1a: Lugia|Tailwind|p1a: Lugia
+|-sidestart|p1: coatoverwatch|move: Tailwind
+|move|p2a: Flutter Mane|Moonblast|p1a: Lugia
+|-damage|p1a: Lugia|79/100
+|-damage|p2a: Flutter Mane|40/100|[from] item: Life Orb
+|
+|upkeep
+|turn|7
+|inactive|B bleep has 120 seconds left.
+|
+|t:|1748546881
+|move|p1b: Gholdengo|Nasty Plot|p1b: Gholdengo
+|-boost|p1b: Gholdengo|spa|2
+|move|p1a: Lugia|Calm Mind|p1a: Lugia
+|-boost|p1a: Lugia|spa|1
+|-boost|p1a: Lugia|spd|1
+|move|p2a: Flutter Mane|Psyshock|p1a: Lugia
+|-resisted|p1a: Lugia
+|-damage|p1a: Lugia|67/100
+|-damage|p2a: Flutter Mane|30/100|[from] item: Life Orb
+|move|p2b: Espeon|Trick Room|p2b: Espeon
+|-fieldstart|move: Trick Room|[of] p2b: Espeon
+|
+|upkeep
+|turn|8
+|inactive|B bleep has 120 seconds left.
+|
+|t:|1748546899
+|switch|p2b: Ursaluna|Ursaluna, F|100/100
+|move|p2a: Flutter Mane|Shadow Ball|p1b: Gholdengo
+|-supereffective|p1b: Gholdengo
+|-damage|p1b: Gholdengo|0 fnt
+|faint|p1b: Gholdengo
+|-damage|p2a: Flutter Mane|20/100|[from] item: Life Orb
+|move|p1a: Lugia|Hurricane|p2b: Ursaluna
+|-damage|p2b: Ursaluna|41/100
+|-damage|p1a: Lugia|57/100|[from] item: Life Orb
+|
+|-status|p2b: Ursaluna|brn|[from] item: Flame Orb
+|upkeep
+|
+|t:|1748546909
+|switch|p1b: Kyogre|Kyogre|100/100
+|-weather|RainDance|[from] ability: Drizzle|[of] p1b: Kyogre
+|turn|9
+|inactive|B bleep has 120 seconds left.
+|
+|t:|1748546926
+|-terastallize|p1b: Kyogre|Water
+|move|p2b: Ursaluna|Facade|p1b: Kyogre
+|-damage|p1b: Kyogre|0 fnt
+|faint|p1b: Kyogre
+|move|p2a: Flutter Mane|Shadow Ball|p1a: Lugia
+|-supereffective|p1a: Lugia
+|-damage|p1a: Lugia|14/100
+|-damage|p2a: Flutter Mane|10/100|[from] item: Life Orb
+|move|p1a: Lugia|Hurricane|p2b: Ursaluna
+|-crit|p2b: Ursaluna
+|-damage|p2b: Ursaluna|0 fnt
+|faint|p2b: Ursaluna
+|-damage|p1a: Lugia|4/100|[from] item: Life Orb
+|
+|-weather|RainDance|[upkeep]
+|-sideend|p1: coatoverwatch|move: Tailwind
+|upkeep
+|
+|t:|1748546941
+|switch|p2b: Espeon|Espeon, M|48/100
+|switch|p1b: Raging Bolt|Raging Bolt|100/100
+|-enditem|p1b: Raging Bolt|Booster Energy
+|-activate|p1b: Raging Bolt|ability: Protosynthesis|[fromitem]
+|-start|p1b: Raging Bolt|protosynthesisspa
+|turn|10
+|inactive|B bleep has 120 seconds left.
+|
+|t:|1748546955
+|move|p2b: Espeon|Protect|p2b: Espeon
+|-singleturn|p2b: Espeon|Protect
+|move|p1b: Raging Bolt|Thunderclap|p2a: Flutter Mane
+|-damage|p2a: Flutter Mane|0 fnt
+|faint|p2a: Flutter Mane
+|-end|p2a: Flutter Mane|Protosynthesis|[silent]
+|move|p1a: Lugia|Hurricane|p2b: Espeon
+|-activate|p2b: Espeon|move: Protect
+|
+|-weather|RainDance|[upkeep]
+|upkeep
+|turn|11
+|-message|B bleep forfeited.
+|
+|win|coatoverwatch
+|raw|coatoverwatch's rating: 1232 &rarr; <strong>1252</strong><br />(+20 for winning)
+|raw|B bleep's rating: 1167 &rarr; <strong>1147</strong><br />(-20 for losing)
+|l|☆B bleep
+|player|p2|
